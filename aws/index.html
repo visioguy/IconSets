@@ -62,7 +62,9 @@
         
     d3.json("icons/_iconData.json").then(
       function(data) {
-                
+        
+		console.log("here");
+				
         // Group all of the data items by stencil name,
         // sorting by stencil name, then by master name:
         var itemsByMaster = d3.nest()
