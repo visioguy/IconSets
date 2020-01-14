@@ -1,0 +1,131 @@
+<html>
+  
+  <!--  TODO: add a filter box to narrow it down -->
+
+  <head>
+    <script src="/script/d3.v5.min.js"></script>
+    <style>
+      body { font-family: sans-serif; }
+      
+      /* Div Topography:
+         #icons > .icon-group > .icons > .icon 
+      */
+      
+      .icons {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        align-items: flex-start;
+        
+      }
+      
+      .icon {
+        flex: 0 0 6em; /* Shorthand for: flex-grow, flex-shrink, flex-basis */
+        align-content: center;
+        text-align: center;
+      }
+      
+      .icon-label {
+        font-size: smaller;
+        text-align: center;
+        margin: 5 5 10 5;
+      }
+      
+    </style>
+  </head>
+  
+  <body>
+    <h1>
+      AWS Icons
+    </h1>
+    
+    <div id="icons">
+      <!-- js fills in the stencils and masters here -->
+    </div>
+    
+  </body>
+  
+  <script>
+      
+    let divPar = d3.select("#icons");
+        
+    d3.json("/icons/_iconData.json").then(
+      function(data) {
+                
+        // Group all of the data items by stencil name,
+        // sorting by stencil name, then by master name:
+        var itemsByMaster = d3.nest()
+          .key( (d) =>  d.Stencil )
+          .sortKeys(d3.ascending)    
+          .sortValues((a,b) => a.Master.localeCompare(b.Master) )
+          .entries(data);
+        
+        //console.log(itemsByMaster);
+        
+        let ct = 0;
+        
+        divPar.selectAll("div")
+          .data(itemsByMaster)
+          .enter()
+          .each((d, i) => {
+                            
+          //console.log(d, i);
+          
+          // Add a div for the stencil, and give it a
+          // heading the shows the name of the stencil:
+          let divStn = divPar.append("div")
+                             .classed("icon-group", true);
+          divStn.append("h2").text(() => d.key);
+
+          // Create a container to hold each icon + icon data:
+          let divIcns = divStn.append("div")
+                              .classed("icons", true)
+          
+          // Now add divs for the master icons:
+          divIcns.selectAll("div")
+            .data(d.values)
+            .enter()
+            .each((d, i) => {
+
+              ct++;
+
+              let divIcn = divIcns.append("div")
+                .classed("icon", true);
+
+              divIcn.append("img")
+                .attr("src", `/icons/${d.Filename}`)
+                //.attr("width", 40)
+                ;
+              let dpr = divIcn.append("p")
+                          .classed("icon-label", true);
+            
+//              dpr.append("span")
+//                  .text(() => `${ct}. ` )     
+//                  .style("color", "lightgray")
+//                ;
+              dpr.append("span")
+                  .text(() => `${d.Master}` )            
+                ;
+
+          }) //...divIcns.selectAll...
+              
+        }) //...divPar.selectAll...
+
+      }
+    );
+    
+    //d3.json("mydata.json").then(function(data) {
+    
+    console.log("boo");
+    
+//  {
+//    "SetName": "AWS",
+//    "Folder": "",
+//    "Stencil": "Business Applications",
+//    "Filename": "Business Applications.png",
+//    "Master": "Business Applications"
+//  },    
+    
+  </script>
+  
+</html>
