@@ -1,0 +1,4335 @@
+[
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREOPERATIONSMANAGER_U",
+    "Filename": "Operations Manager.png",
+    "Master": "Operations Manager"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREOPERATIONSMANAGER_U",
+    "Filename": "Plug and Play.png",
+    "Master": "Plug and Play"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREOPERATIONSMANAGER_U",
+    "Filename": "Runtime.png",
+    "Master": "Runtime"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREOPERATIONSMANAGER_U",
+    "Filename": "Orchestrator.png",
+    "Master": "Orchestrator"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREOPERATIONSMANAGER_U",
+    "Filename": "Advanced Group Policy Management.png",
+    "Master": "Advanced Group Policy Management"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREOPERATIONSMANAGER_U",
+    "Filename": "App Controller.png",
+    "Master": "App Controller"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREOPERATIONSMANAGER_U",
+    "Filename": "Application Virtualization.png",
+    "Master": "Application Virtualization"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREOPERATIONSMANAGER_U",
+    "Filename": "Applications.png",
+    "Master": "Applications"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREOPERATIONSMANAGER_U",
+    "Filename": "Azure Pack.png",
+    "Master": "Azure Pack"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREOPERATIONSMANAGER_U",
+    "Filename": "Configuration Manager.png",
+    "Master": "Configuration Manager"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREOPERATIONSMANAGER_U",
+    "Filename": "Data Protection Manager.png",
+    "Master": "Data Protection Manager"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREOPERATIONSMANAGER_U",
+    "Filename": "Microsoft Enterprise Desktop Virtualization.png",
+    "Master": "Microsoft Enterprise Desktop Virtualization"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREOPERATIONSMANAGER_U",
+    "Filename": "Microsoft User Experience Virtualization.png",
+    "Master": "Microsoft User Experience Virtualization"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREOPERATIONSMANAGER_U",
+    "Filename": "Middleware.png",
+    "Master": "Middleware"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREOPERATIONSMANAGER_U",
+    "Filename": "Plug and Play (Stackable).png",
+    "Master": "Plug and Play (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREOPERATIONSMANAGER_U",
+    "Filename": "Service Manager.png",
+    "Master": "Service Manager"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREOPERATIONSMANAGER_U",
+    "Filename": "Slider Bar, Horizontal.png",
+    "Master": "Slider Bar, Horizontal"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREOPERATIONSMANAGER_U",
+    "Filename": "Slider Bar, Vertical.png",
+    "Master": "Slider Bar, Vertical"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREOPERATIONSMANAGER_U",
+    "Filename": "SSD.png",
+    "Master": "SSD"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREOPERATIONSMANAGER_U",
+    "Filename": "Virtual Machine Manager (VMM).png",
+    "Master": "Virtual Machine Manager (VMM)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREOPERATIONSMANAGER_U",
+    "Filename": "Microsoft Bitlocker Administration and Management.png",
+    "Master": "Microsoft Bitlocker Administration and Management"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREOPERATIONSMANAGER_U",
+    "Filename": "Microsoft Diagnostics and Recovery Toolset.png",
+    "Master": "Microsoft Diagnostics and Recovery Toolset"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Microsoft Azure.png",
+    "Master": "Microsoft Azure"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Virtual Machine.png",
+    "Master": "Virtual Machine"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Azure SQL Database.png",
+    "Master": "Azure SQL Database"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Azure Active Directory.png",
+    "Master": "Azure Active Directory"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Azure VPN Gateway.png",
+    "Master": "Azure VPN Gateway"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "DNS.png",
+    "Master": "DNS"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Affinity Group.png",
+    "Master": "Affinity Group"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Analysis Services.png",
+    "Master": "Analysis Services"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "API App.png",
+    "Master": "API App"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "API App (Opaque).png",
+    "Master": "API App (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "API Management.png",
+    "Master": "API Management"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "App Service.png",
+    "Master": "App Service"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "App Service (Opaque).png",
+    "Master": "App Service (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "App Service WorkerPools.png",
+    "Master": "App Service WorkerPools"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Application Gateway (New).png",
+    "Master": "Application Gateway (New)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Application Insights.png",
+    "Master": "Application Insights"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Application Insights (Opaque).png",
+    "Master": "Application Insights (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Autoscaling.png",
+    "Master": "Autoscaling"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Autoscaling (Opaque).png",
+    "Master": "Autoscaling (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Availability Set.png",
+    "Master": "Availability Set"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Availability Set (New).png",
+    "Master": "Availability Set (New)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Azure Active Directory (Opaque).png",
+    "Master": "Azure Active Directory (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Azure Advisor.png",
+    "Master": "Azure Advisor"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Azure Alert.png",
+    "Master": "Azure Alert"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Azure Alert (Opaque).png",
+    "Master": "Azure Alert (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Azure Automatic Load Balancer.png",
+    "Master": "Azure Automatic Load Balancer"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Azure Automatic Load Balancer (Stackable).png",
+    "Master": "Azure Automatic Load Balancer (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Azure Automation.png",
+    "Master": "Azure Automation"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Azure Automation (Opaque).png",
+    "Master": "Azure Automation (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Azure Automation Runbook.png",
+    "Master": "Azure Automation Runbook"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Azure Backup.png",
+    "Master": "Azure Backup"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Azure Backup (Opaque).png",
+    "Master": "Azure Backup (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Azure Batch.png",
+    "Master": "Azure Batch"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Azure Batch (Opaque).png",
+    "Master": "Azure Batch (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Azure Cache (Stackable).png",
+    "Master": "Azure Cache (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Azure Cache Including Redis.png",
+    "Master": "Azure Cache Including Redis"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Azure Files.png",
+    "Master": "Azure Files"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Azure Files (Opaque).png",
+    "Master": "Azure Files (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Azure Functions.png",
+    "Master": "Azure Functions"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Azure Key Vault.png",
+    "Master": "Azure Key Vault"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Azure Key Vault (Opaque).png",
+    "Master": "Azure Key Vault (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Azure Load Balancer.png",
+    "Master": "Azure Load Balancer"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Azure Load Balancer (Opaque).png",
+    "Master": "Azure Load Balancer (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Azure Marketplace.png",
+    "Master": "Azure Marketplace"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Azure Marketplace (Opaque).png",
+    "Master": "Azure Marketplace (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Azure Rights Management.png",
+    "Master": "Azure Rights Management"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Azure Rights Management (Opaque).png",
+    "Master": "Azure Rights Management (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Azure SDK.png",
+    "Master": "Azure SDK"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Azure SDK (Stackable).png",
+    "Master": "Azure SDK (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Azure Search.png",
+    "Master": "Azure Search"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Azure SQL Database (Stackable).png",
+    "Master": "Azure SQL Database (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Azure Stack.png",
+    "Master": "Azure Stack"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Azure Subscription.png",
+    "Master": "Azure Subscription"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Azure Subscription (Opaque).png",
+    "Master": "Azure Subscription (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Backup Agent.png",
+    "Master": "Backup Agent"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Backup Agent (Opaque).png",
+    "Master": "Backup Agent (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Backup Or Recovery Vault.png",
+    "Master": "Backup Or Recovery Vault"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Batch.png",
+    "Master": "Batch"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Bitbucket Code Source.png",
+    "Master": "Bitbucket Code Source"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Bitbucket Code Source (Stackable).png",
+    "Master": "Bitbucket Code Source (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "BizTalk Services.png",
+    "Master": "BizTalk Services"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "BizTalk Services (Opaque).png",
+    "Master": "BizTalk Services (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Bot Service.png",
+    "Master": "Bot Service"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Cloud Service.png",
+    "Master": "Cloud Service"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Cloud Service (Opaque).png",
+    "Master": "Cloud Service (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Cloud, Office 365.png",
+    "Master": "Cloud, Office 365"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Cloud, Office 365 (Opaque).png",
+    "Master": "Cloud, Office 365 (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "CodePlex.png",
+    "Master": "CodePlex"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "CodePlex (Stackable).png",
+    "Master": "CodePlex (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Cognitive Services.png",
+    "Master": "Cognitive Services"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Cognitive Services (Opaque).png",
+    "Master": "Cognitive Services (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Container Registry.png",
+    "Master": "Container Registry"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Container Service.png",
+    "Master": "Container Service"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Content Delivery Network (CDN).png",
+    "Master": "Content Delivery Network (CDN)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Cortana Analytics.png",
+    "Master": "Cortana Analytics"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Data Factory.png",
+    "Master": "Data Factory"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Data Factory (Opaque).png",
+    "Master": "Data Factory (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Data Lake (nc).png",
+    "Master": "Data Lake (nc)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Data Lake Analytics.png",
+    "Master": "Data Lake Analytics"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Data Lake Store (nc).png",
+    "Master": "Data Lake Store (nc)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "DevTest Labs.png",
+    "Master": "DevTest Labs"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Directory Health Monitoring.png",
+    "Master": "Directory Health Monitoring"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "DNS (Opaque).png",
+    "Master": "DNS (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "DocDB Account.png",
+    "Master": "DocDB Account"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "DocDB Collection.png",
+    "Master": "DocDB Collection"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "DocumentDB.png",
+    "Master": "DocumentDB"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "DocumentDB (Stackable).png",
+    "Master": "DocumentDB (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "DocumentDB Document.png",
+    "Master": "DocumentDB Document"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "DocumentDB Document (Opaque).png",
+    "Master": "DocumentDB Document (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Dropbox Code Source.png",
+    "Master": "Dropbox Code Source"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Dropbox Code Source (Stackable).png",
+    "Master": "Dropbox Code Source (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Event Hubs.png",
+    "Master": "Event Hubs"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Event Hubs (Opaque).png",
+    "Master": "Event Hubs (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "ExpressRoute.png",
+    "Master": "ExpressRoute"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "ExpressRoute (Opaque).png",
+    "Master": "ExpressRoute (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Git Repository.png",
+    "Master": "Git Repository"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Git Repository (Stackable).png",
+    "Master": "Git Repository (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "GitHub.png",
+    "Master": "GitHub"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "GitHub Code (Stackable).png",
+    "Master": "GitHub Code (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "HDInsight.png",
+    "Master": "HDInsight"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "HDInsight (Stackable).png",
+    "Master": "HDInsight (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "HockeyApp.png",
+    "Master": "HockeyApp"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Hybrid Connection.png",
+    "Master": "Hybrid Connection"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Hybrid Connection Manager For BizTalk Hybrid Connection.png",
+    "Master": "Hybrid Connection Manager For BizTalk Hybrid Connection"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "IoT Hub.png",
+    "Master": "IoT Hub"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "IoT Hub (Opaque).png",
+    "Master": "IoT Hub (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Logic App.png",
+    "Master": "Logic App"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Logic App (Opaque).png",
+    "Master": "Logic App (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Machine Learning (nc).png",
+    "Master": "Machine Learning (nc)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Management Portal.png",
+    "Master": "Management Portal"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Media Services.png",
+    "Master": "Media Services"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Media Services (Stackable).png",
+    "Master": "Media Services (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Microsoft Account.png",
+    "Master": "Microsoft Account"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Microsoft Account (Stackable).png",
+    "Master": "Microsoft Account (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Microsoft BI.png",
+    "Master": "Microsoft BI"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Mobile App (Opaque) (Was Mobile Services).png",
+    "Master": "Mobile App (Opaque) (Was Mobile Services)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Mobile App (Was Mobile Services).png",
+    "Master": "Mobile App (Was Mobile Services)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Mobile Engagement.png",
+    "Master": "Mobile Engagement"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Mobile Engagement (Opaque).png",
+    "Master": "Mobile Engagement (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Monitor.png",
+    "Master": "Monitor"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Multi-Factor Authentication.png",
+    "Master": "Multi-Factor Authentication"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Multi-Factor Authentication (Opaque).png",
+    "Master": "Multi-Factor Authentication (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "MySQL Database.png",
+    "Master": "MySQL Database"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "MySQL Database (Stackable).png",
+    "Master": "MySQL Database (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Notification Hubs.png",
+    "Master": "Notification Hubs"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Notification Hubs (Opaque).png",
+    "Master": "Notification Hubs (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Office 365.png",
+    "Master": "Office 365"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Office 365 (Opaque).png",
+    "Master": "Office 365 (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Office 365 Subscription.png",
+    "Master": "Office 365 Subscription"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "OMS.png",
+    "Master": "OMS"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "OMS (Opaque).png",
+    "Master": "OMS (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "OMS Log Analytics (nc).png",
+    "Master": "OMS Log Analytics (nc)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "OS Image.png",
+    "Master": "OS Image"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "OS Image (Stackable).png",
+    "Master": "OS Image (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Recovery Vault.png",
+    "Master": "Recovery Vault"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "RemoteApp.png",
+    "Master": "RemoteApp"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "RemoteApp (Opaque).png",
+    "Master": "RemoteApp (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Resource Group.png",
+    "Master": "Resource Group"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Resource Group (Opaque).png",
+    "Master": "Resource Group (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Scheduler.png",
+    "Master": "Scheduler"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Scheduler (Stackable).png",
+    "Master": "Scheduler (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Security Center.png",
+    "Master": "Security Center"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Service Bus.png",
+    "Master": "Service Bus"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Service Bus Relay (nc).png",
+    "Master": "Service Bus Relay (nc)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Service Bus Topic.png",
+    "Master": "Service Bus Topic"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Service Endpoint.png",
+    "Master": "Service Endpoint"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Service Fabric.png",
+    "Master": "Service Fabric"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Service Fabric (Opaque).png",
+    "Master": "Service Fabric (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Site Recovery.png",
+    "Master": "Site Recovery"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Site Recovery (Opaque).png",
+    "Master": "Site Recovery (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Smart Virtual Network Box.png",
+    "Master": "Smart Virtual Network Box"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "SQL Elastic Pools.png",
+    "Master": "SQL Elastic Pools"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "SQL Data Sync.png",
+    "Master": "SQL Data Sync"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "SQL Data Sync (Stackable).png",
+    "Master": "SQL Data Sync (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "SQL Database (Generic).png",
+    "Master": "SQL Database (Generic)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "SQL Database (Generic) (Stackable).png",
+    "Master": "SQL Database (Generic) (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "SQL DataWarehouse.png",
+    "Master": "SQL DataWarehouse"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "SQL Elastic Database Pools.png",
+    "Master": "SQL Elastic Database Pools"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "SQL Stretch Database (nc).png",
+    "Master": "SQL Stretch Database (nc)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Startup Task.png",
+    "Master": "Startup Task"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Startup Task (Stackable).png",
+    "Master": "Startup Task (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Storage.png",
+    "Master": "Storage"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Storage (Azure).png",
+    "Master": "Storage (Azure)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Storage (Azure) (Opaque).png",
+    "Master": "Storage (Azure) (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Storage Blob.png",
+    "Master": "Storage Blob"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Storage Blob (Stackable).png",
+    "Master": "Storage Blob (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Storage Queue.png",
+    "Master": "Storage Queue"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Storage Queue (Stackable).png",
+    "Master": "Storage Queue (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Storage Table.png",
+    "Master": "Storage Table"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Storage Table (Stackable).png",
+    "Master": "Storage Table (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "StorSimple.png",
+    "Master": "StorSimple"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "StorSimple (Opaque).png",
+    "Master": "StorSimple (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Stream Analytics.png",
+    "Master": "Stream Analytics"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Stream Analytics (Opaque).png",
+    "Master": "Stream Analytics (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Traffic Manager.png",
+    "Master": "Traffic Manager"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Traffic Manager (Opaque).png",
+    "Master": "Traffic Manager (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Unidentified Feature Object.png",
+    "Master": "Unidentified Feature Object"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Unidentified Feature Object (Stackable).png",
+    "Master": "Unidentified Feature Object (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "VHD.png",
+    "Master": "VHD"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "VHD (Opaque).png",
+    "Master": "VHD (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "VHD Data Disk.png",
+    "Master": "VHD Data Disk"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "VHD Data Disk (Stackable).png",
+    "Master": "VHD Data Disk (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Virtual Machine (Stackable).png",
+    "Master": "Virtual Machine (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Virtual machine container.png",
+    "Master": "Virtual machine container"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Virtual Network.png",
+    "Master": "Virtual Network"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Virtual Network Box.png",
+    "Master": "Virtual Network Box"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Visual Studio Team Services.png",
+    "Master": "Visual Studio Team Services"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "VM Scale Set.png",
+    "Master": "VM Scale Set"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "VM Symbol Only.png",
+    "Master": "VM Symbol Only"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "VPN Gateway.png",
+    "Master": "VPN Gateway"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Web App (Opaque) (Was Websites).png",
+    "Master": "Web App (Opaque) (Was Websites)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Web App (Was Websites).png",
+    "Master": "Web App (Was Websites)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Web Role.png",
+    "Master": "Web Role"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Web Role (Opaque).png",
+    "Master": "Web Role (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Web Roles.png",
+    "Master": "Web Roles"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Web Roles (Opaque).png",
+    "Master": "Web Roles (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Webhook.png",
+    "Master": "Webhook"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "WebJobs.png",
+    "Master": "WebJobs"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "WebJobs (Opaque).png",
+    "Master": "WebJobs (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Work Account.png",
+    "Master": "Work Account"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Work Account (Opaque).png",
+    "Master": "Work Account (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Worker Role.png",
+    "Master": "Worker Role"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Worker Role (Opaque).png",
+    "Master": "Worker Role (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Worker Roles.png",
+    "Master": "Worker Roles"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "Worker Roles (Opaque).png",
+    "Master": "Worker Roles (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREDEPRECATED_U",
+    "Filename": "HD Insight.png",
+    "Master": "HD Insight"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREDEPRECATED_U",
+    "Filename": "SQL Reporting.png",
+    "Master": "SQL Reporting"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREDEPRECATED_U",
+    "Filename": "VHD.png",
+    "Master": "VHD"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREDEPRECATED_U",
+    "Filename": "Microsoft Azure.t.png",
+    "Master": "Microsoft Azure.t"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREDEPRECATED_U",
+    "Filename": ".cscfg Service Configuration File.t.png",
+    "Master": ".cscfg Service Configuration File.t"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREDEPRECATED_U",
+    "Filename": ".csdef Service Definition File.t.png",
+    "Master": ".csdef Service Definition File.t"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREDEPRECATED_U",
+    "Filename": ".cspkg (Service Package).t.png",
+    "Master": ".cspkg (Service Package).t"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREDEPRECATED_U",
+    "Filename": ".cspkg (Service Package).t.32.png",
+    "Master": ".cspkg (Service Package).t.32"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREDEPRECATED_U",
+    "Filename": ".wadcfg Diagnostics Config.t.png",
+    "Master": ".wadcfg Diagnostics Config.t"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREDEPRECATED_U",
+    "Filename": "Access Control.png",
+    "Master": "Access Control"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREDEPRECATED_U",
+    "Filename": "Application Gateway.png",
+    "Master": "Application Gateway"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREDEPRECATED_U",
+    "Filename": "Application Gateway (Opaque).png",
+    "Master": "Application Gateway (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREDEPRECATED_U",
+    "Filename": "Azure Poster Arrow.png",
+    "Master": "Azure Poster Arrow"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREDEPRECATED_U",
+    "Filename": "Content Delivery Network (CDN).png",
+    "Master": "Content Delivery Network (CDN)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREDEPRECATED_U",
+    "Filename": "Content Delivery Network (CDN) (Stackable).png",
+    "Master": "Content Delivery Network (CDN) (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREDEPRECATED_U",
+    "Filename": "Data Lake.png",
+    "Master": "Data Lake"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREDEPRECATED_U",
+    "Filename": "Data Lake (Opaque).png",
+    "Master": "Data Lake (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREDEPRECATED_U",
+    "Filename": "DataLake Analytics.png",
+    "Master": "DataLake Analytics"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREDEPRECATED_U",
+    "Filename": "DataLake Store.png",
+    "Master": "DataLake Store"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREDEPRECATED_U",
+    "Filename": "File.t.png",
+    "Master": "File.t"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREDEPRECATED_U",
+    "Filename": "HD Insight (Stackable).png",
+    "Master": "HD Insight (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREDEPRECATED_U",
+    "Filename": "Machine Learning.png",
+    "Master": "Machine Learning"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREDEPRECATED_U",
+    "Filename": "Machine Learning (Opaque).png",
+    "Master": "Machine Learning (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREDEPRECATED_U",
+    "Filename": "Management Certificate.t.png",
+    "Master": "Management Certificate.t"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREDEPRECATED_U",
+    "Filename": "Notification Topic.png",
+    "Master": "Notification Topic"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREDEPRECATED_U",
+    "Filename": "Notification Topic (Stackable).png",
+    "Master": "Notification Topic (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREDEPRECATED_U",
+    "Filename": "Operational Insights.png",
+    "Master": "Operational Insights"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREDEPRECATED_U",
+    "Filename": "Operational Insights (Opaque).png",
+    "Master": "Operational Insights (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREDEPRECATED_U",
+    "Filename": "Service Bus.png",
+    "Master": "Service Bus"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREDEPRECATED_U",
+    "Filename": "Service Bus (Opaque).png",
+    "Master": "Service Bus (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREDEPRECATED_U",
+    "Filename": "Service Bus Queue.png",
+    "Master": "Service Bus Queue"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREDEPRECATED_U",
+    "Filename": "Service Bus Queue (Opaque).png",
+    "Master": "Service Bus Queue (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREDEPRECATED_U",
+    "Filename": "Service Bus Relay.png",
+    "Master": "Service Bus Relay"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREDEPRECATED_U",
+    "Filename": "Service Bus Relay (Opaque).png",
+    "Master": "Service Bus Relay (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREDEPRECATED_U",
+    "Filename": "Service Bus Topic.png",
+    "Master": "Service Bus Topic"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREDEPRECATED_U",
+    "Filename": "Service Bus Topic (Stackable).png",
+    "Master": "Service Bus Topic (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREDEPRECATED_U",
+    "Filename": "Service Certificate.t.png",
+    "Master": "Service Certificate.t"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREDEPRECATED_U",
+    "Filename": "Service Package.png",
+    "Master": "Service Package"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREDEPRECATED_U",
+    "Filename": "Service Package (Stackable).png",
+    "Master": "Service Package (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREDEPRECATED_U",
+    "Filename": "SQL Data Warehouse.png",
+    "Master": "SQL Data Warehouse"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREDEPRECATED_U",
+    "Filename": "SQL Data Warehouse (Opaque).png",
+    "Master": "SQL Data Warehouse (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREDEPRECATED_U",
+    "Filename": "SQL Reporting (Opaque).png",
+    "Master": "SQL Reporting (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREDEPRECATED_U",
+    "Filename": "SQL Stretch Database.png",
+    "Master": "SQL Stretch Database"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREDEPRECATED_U",
+    "Filename": "VHD (Stackable).png",
+    "Master": "VHD (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREDEPRECATED_U",
+    "Filename": "Web Role (Opaque).png",
+    "Master": "Web Role (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREDRAWING_U",
+    "Filename": "Primary Box.png",
+    "Master": "Primary Box"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREDRAWING_U",
+    "Filename": "Arrow (Azure Poster Style).png",
+    "Master": "Arrow (Azure Poster Style)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREDRAWING_U",
+    "Filename": "Multi-Branch Line.png",
+    "Master": "Multi-Branch Line"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREDRAWING_U",
+    "Filename": "1D Wide Arrow Double.png",
+    "Master": "1D Wide Arrow Double"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREDRAWING_U",
+    "Filename": "3rd Box Color.png",
+    "Master": "3rd Box Color"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREDRAWING_U",
+    "Filename": "Alignment Helper2.png",
+    "Master": "Alignment Helper2"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREDRAWING_U",
+    "Filename": "Arrow (Azure Poster Style).131.png",
+    "Master": "Arrow (Azure Poster Style).131"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREDRAWING_U",
+    "Filename": "Arrow Arc.png",
+    "Master": "Arrow Arc"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREDRAWING_U",
+    "Filename": "Arrow Dyn Connector.png",
+    "Master": "Arrow Dyn Connector"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREDRAWING_U",
+    "Filename": "Arrow Straight.png",
+    "Master": "Arrow Straight"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREDRAWING_U",
+    "Filename": "Blow Out Dotted Line.png",
+    "Master": "Blow Out Dotted Line"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREDRAWING_U",
+    "Filename": "BORDER For 8.5x11.png",
+    "Master": "BORDER For 8.5x11"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREDRAWING_U",
+    "Filename": "Box 2.png",
+    "Master": "Box 2"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREDRAWING_U",
+    "Filename": "Box 3.png",
+    "Master": "Box 3"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREDRAWING_U",
+    "Filename": "Dotted Line Box No Fill.png",
+    "Master": "Dotted Line Box No Fill"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREDRAWING_U",
+    "Filename": "Golden Mean Rectangle.png",
+    "Master": "Golden Mean Rectangle"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREDRAWING_U",
+    "Filename": "LineFat Right.png",
+    "Master": "LineFat Right"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREDRAWING_U",
+    "Filename": "LineWB1 Attach Center Shape.png",
+    "Master": "LineWB1 Attach Center Shape"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREDRAWING_U",
+    "Filename": "Multi-Branch Line (45 Ddeg Angle).png",
+    "Master": "Multi-Branch Line (45 Ddeg Angle)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREDRAWING_U",
+    "Filename": "Num Label Rotate Ptr.png",
+    "Master": "Num Label Rotate Ptr"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREDRAWING_U",
+    "Filename": "Numbered Label.png",
+    "Master": "Numbered Label"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREDRAWING_U",
+    "Filename": "Primary Box Color.png",
+    "Master": "Primary Box Color"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREDRAWING_U",
+    "Filename": "Secondary Box.png",
+    "Master": "Secondary Box"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREDRAWING_U",
+    "Filename": "Segoe UI Text 10pt.png",
+    "Master": "Segoe UI Text 10pt"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREDRAWING_U",
+    "Filename": "White Square To Block Out.png",
+    "Master": "White Square To Block Out"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Application Server.png",
+    "Master": "Application Server"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Storage.png",
+    "Master": "Storage"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Web Server.png",
+    "Master": "Web Server"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Server Directory.png",
+    "Master": "Server Directory"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Internet.png",
+    "Master": "Internet"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Router.png",
+    "Master": "Router"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": ".rdp Remoting File.png",
+    "Master": ".rdp Remoting File"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": ".rdp Remoting File (Stackable).png",
+    "Master": ".rdp Remoting File (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "AD FS.png",
+    "Master": "AD FS"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "AD FS (Stackable).png",
+    "Master": "AD FS (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Android Phone.png",
+    "Master": "Android Phone"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Application (Blank For Text).png",
+    "Master": "Application (Blank For Text)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Application -Generic.png",
+    "Master": "Application -Generic"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Application Server (Opaque).png",
+    "Master": "Application Server (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Azure Pack.png",
+    "Master": "Azure Pack"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Backup, Local.png",
+    "Master": "Backup, Local"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Backup, Local (Stackable).png",
+    "Master": "Backup, Local (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Backup, Online.png",
+    "Master": "Backup, Online"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Backup, Online (Stackable).png",
+    "Master": "Backup, Online (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Certificate.png",
+    "Master": "Certificate"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Certificate (Stackable).png",
+    "Master": "Certificate (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Client Application.png",
+    "Master": "Client Application"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Client Application (Stackable).png",
+    "Master": "Client Application (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Cloud.png",
+    "Master": "Cloud"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Cloud (Opaque).png",
+    "Master": "Cloud (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Cluster Server.png",
+    "Master": "Cluster Server"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Cluster Server (Stackable).png",
+    "Master": "Cluster Server (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Code File.png",
+    "Master": "Code File"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Code File (Stackable).png",
+    "Master": "Code File (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Connectors.png",
+    "Master": "Connectors"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Connectors (Stackable).png",
+    "Master": "Connectors (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Database Generic.png",
+    "Master": "Database Generic"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Database Generic (Stackable).png",
+    "Master": "Database Generic (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Database Server.png",
+    "Master": "Database Server"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Database Server (Stackable).png",
+    "Master": "Database Server (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Database Synchronization.png",
+    "Master": "Database Synchronization"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Database Synchronization (Stackable).png",
+    "Master": "Database Synchronization (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Device.png",
+    "Master": "Device"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Device (Stackable).png",
+    "Master": "Device (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Direct Access.png",
+    "Master": "Direct Access"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Direct Access (Stackable).png",
+    "Master": "Direct Access (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Document.png",
+    "Master": "Document"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Document (Stackable).png",
+    "Master": "Document (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Domain Controller.png",
+    "Master": "Domain Controller"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Domain Controller (Stackable).png",
+    "Master": "Domain Controller (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Enterprise (Stackable).png",
+    "Master": "Enterprise (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Enterprise  Building.png",
+    "Master": "Enterprise / Building"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "File, General.png",
+    "Master": "File, General"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "File, General (Stackable).png",
+    "Master": "File, General (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Filter.png",
+    "Master": "Filter"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Filter (Stackable).png",
+    "Master": "Filter (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Firewall.png",
+    "Master": "Firewall"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Firewall (Stackable).png",
+    "Master": "Firewall (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Folder.png",
+    "Master": "Folder"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Folder (Stackable).png",
+    "Master": "Folder (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Gateway.png",
+    "Master": "Gateway"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Gateway (Stackable).png",
+    "Master": "Gateway (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Generic App (Stackable).png",
+    "Master": "Generic App (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Generic Code.png",
+    "Master": "Generic Code"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Generic Code (Opaque).png",
+    "Master": "Generic Code (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Generic Server (Stackable).png",
+    "Master": "Generic Server (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Health Monitoring.png",
+    "Master": "Health Monitoring"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Health Monitoring (Stackable).png",
+    "Master": "Health Monitoring (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Healthy.png",
+    "Master": "Healthy"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Healthy (Opaque).png",
+    "Master": "Healthy (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Import Generic.png",
+    "Master": "Import Generic"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Import Generic (Stackable).png",
+    "Master": "Import Generic (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Internet (Hollow).png",
+    "Master": "Internet (Hollow)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Internet (Stackable).png",
+    "Master": "Internet (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Internet White (Opaque).png",
+    "Master": "Internet White (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "iPhone.png",
+    "Master": "iPhone"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Key, Permissions.png",
+    "Master": "Key, Permissions"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Key, Permissions (Stackable).png",
+    "Master": "Key, Permissions (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Keyboard.png",
+    "Master": "Keyboard"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Keyboard (Stackable).png",
+    "Master": "Keyboard (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Laptop (Stackable).png",
+    "Master": "Laptop (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Laptop Computer.png",
+    "Master": "Laptop Computer"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Load Balancer.png",
+    "Master": "Load Balancer"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Load Balancer (Stackable).png",
+    "Master": "Load Balancer (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Lock Unlocked, Accessible.png",
+    "Master": "Lock Unlocked, Accessible"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Lock, Protected.png",
+    "Master": "Lock, Protected"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Lock, Protected (Stackable).png",
+    "Master": "Lock, Protected (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Lock, Unprotected (Stackable).png",
+    "Master": "Lock, Unprotected (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Maintenance.png",
+    "Master": "Maintenance"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Maintenance (Stackable).png",
+    "Master": "Maintenance (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Management Console.png",
+    "Master": "Management Console"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Management Console (Stackable).png",
+    "Master": "Management Console (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Message.png",
+    "Master": "Message"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Message (Stackable).png",
+    "Master": "Message (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Monitor.png",
+    "Master": "Monitor"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Monitor (Stackable).png",
+    "Master": "Monitor (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Monitor Running Apps.png",
+    "Master": "Monitor Running Apps"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Monitor Running Apps (Stackable).png",
+    "Master": "Monitor Running Apps (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Mouse.png",
+    "Master": "Mouse"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Mouse (Stackable).png",
+    "Master": "Mouse (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Network Card.png",
+    "Master": "Network Card"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Network Card (Stackable).png",
+    "Master": "Network Card (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Performance.png",
+    "Master": "Performance"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Performance (Stackable).png",
+    "Master": "Performance (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Performance Monitor.png",
+    "Master": "Performance Monitor"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Performance Monitor (Stackable).png",
+    "Master": "Performance Monitor (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Phone.png",
+    "Master": "Phone"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Phone (Stackable).png",
+    "Master": "Phone (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Plug and Play.png",
+    "Master": "Plug and Play"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Plug and Play (Stackable).png",
+    "Master": "Plug and Play (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Powershell Script File.png",
+    "Master": "Powershell Script File"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Powershell Script File (Stackable).png",
+    "Master": "Powershell Script File (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Protocol Stack.png",
+    "Master": "Protocol Stack"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Protocol Stack (Stackable).png",
+    "Master": "Protocol Stack (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Queue, General.png",
+    "Master": "Queue, General"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Queue, General (Stackable).png",
+    "Master": "Queue, General (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "RMS Connector.png",
+    "Master": "RMS Connector"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "RMS Connector (Stackable).png",
+    "Master": "RMS Connector (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Router (Stackable).png",
+    "Master": "Router (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Script File.png",
+    "Master": "Script File"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Script File (Stackable).png",
+    "Master": "Script File (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Secure Virtual Machine.png",
+    "Master": "Secure Virtual Machine"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Secure Virtual Machine (Stackable).png",
+    "Master": "Secure Virtual Machine (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Server (Blade).png",
+    "Master": "Server (Blade)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Server (Generic).png",
+    "Master": "Server (Generic)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Server Directory (Stackable).png",
+    "Master": "Server Directory (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Server Farm.png",
+    "Master": "Server Farm"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Server Farm (Stackable).png",
+    "Master": "Server Farm (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Server Rack.png",
+    "Master": "Server Rack"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Server Rack (Stackable).png",
+    "Master": "Server Rack (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Serverblade (Stackable).png",
+    "Master": "Server/blade (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Settings.png",
+    "Master": "Settings"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Settings (Stackable).png",
+    "Master": "Settings (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Shared Folder.png",
+    "Master": "Shared Folder"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Shared Folder (Stackable).png",
+    "Master": "Shared Folder (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Smartcard.png",
+    "Master": "Smartcard"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Smartcard (Stackable).png",
+    "Master": "Smartcard (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Storage (Stackable).png",
+    "Master": "Storage (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Stored Procedure.png",
+    "Master": "Stored Procedure"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Table.png",
+    "Master": "Table"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Table (Stackable).png",
+    "Master": "Table (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Tablet.png",
+    "Master": "Tablet"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Tablet (Stackable).png",
+    "Master": "Tablet (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Tool.png",
+    "Master": "Tool"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Tool (Stackable).png",
+    "Master": "Tool (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Trigger.png",
+    "Master": "Trigger"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "UDF Function.png",
+    "Master": "UDF Function"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "USB.png",
+    "Master": "USB"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "USB (Stackable).png",
+    "Master": "USB (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "User Permissions.png",
+    "Master": "User Permissions"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Web.png",
+    "Master": "Web"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Web (Stackable).png",
+    "Master": "Web (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Web Server (Stackable).png",
+    "Master": "Web Server (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "WebSite (Generic).png",
+    "Master": "WebSite (Generic)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Windows.png",
+    "Master": "Windows"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Windows Server.png",
+    "Master": "Windows Server"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Windows Server (Stackable).png",
+    "Master": "Windows Server (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Wireless Connection.png",
+    "Master": "Wireless Connection"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Wireless Connection (Stackable).png",
+    "Master": "Wireless Connection (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Workstation Client.png",
+    "Master": "Workstation Client"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "Workstation Client (Stackable).png",
+    "Master": "Workstation Client (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "XML Web Service.png",
+    "Master": "XML Web Service"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "XML Web Service (Stackable).png",
+    "Master": "XML Web Service (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREGENERALSYMBOLS_U",
+    "Filename": "Tunnel.png",
+    "Master": "Tunnel"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREGENERALSYMBOLS_U",
+    "Filename": "User.png",
+    "Master": "User"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREGENERALSYMBOLS_U",
+    "Filename": "Tasks.png",
+    "Master": "Tasks"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREGENERALSYMBOLS_U",
+    "Filename": "Gears.png",
+    "Master": "Gears"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREGENERALSYMBOLS_U",
+    "Filename": "Audio.png",
+    "Master": "Audio"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREGENERALSYMBOLS_U",
+    "Filename": "Video.png",
+    "Master": "Video"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREGENERALSYMBOLS_U",
+    "Filename": "Attachment (nc).png",
+    "Master": "Attachment (nc)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREGENERALSYMBOLS_U",
+    "Filename": "Audio (Stackable).181.png",
+    "Master": "Audio (Stackable).181"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREGENERALSYMBOLS_U",
+    "Filename": "Bug.png",
+    "Master": "Bug"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREGENERALSYMBOLS_U",
+    "Filename": "Bug (Opaque).png",
+    "Master": "Bug (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREGENERALSYMBOLS_U",
+    "Filename": "Cable Settop TV Box.png",
+    "Master": "Cable Settop TV Box"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREGENERALSYMBOLS_U",
+    "Filename": "Calendar.png",
+    "Master": "Calendar"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREGENERALSYMBOLS_U",
+    "Filename": "Calendar (Stackable).png",
+    "Master": "Calendar (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREGENERALSYMBOLS_U",
+    "Filename": "Chart.png",
+    "Master": "Chart"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREGENERALSYMBOLS_U",
+    "Filename": "Chart (Stackable).png",
+    "Master": "Chart (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREGENERALSYMBOLS_U",
+    "Filename": "Checkmark  Success.png",
+    "Master": "Checkmark / Success"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREGENERALSYMBOLS_U",
+    "Filename": "Clock  Time.png",
+    "Master": "Clock / Time"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREGENERALSYMBOLS_U",
+    "Filename": "Continous Cycle Circle.png",
+    "Master": "Continous Cycle Circle"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREGENERALSYMBOLS_U",
+    "Filename": "Crossout Failure.png",
+    "Master": "Crossout/ Failure"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREGENERALSYMBOLS_U",
+    "Filename": "Cut and Paste.png",
+    "Master": "Cut and Paste"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREGENERALSYMBOLS_U",
+    "Filename": "Cut and Paste (Stackable).png",
+    "Master": "Cut and Paste (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREGENERALSYMBOLS_U",
+    "Filename": "Ellipses.png",
+    "Master": "Ellipses"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREGENERALSYMBOLS_U",
+    "Filename": "Folder.png",
+    "Master": "Folder"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREGENERALSYMBOLS_U",
+    "Filename": "Folder (Stackable).png",
+    "Master": "Folder (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREGENERALSYMBOLS_U",
+    "Filename": "Game Controller.png",
+    "Master": "Game Controller"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREGENERALSYMBOLS_U",
+    "Filename": "Gears (Opaque).png",
+    "Master": "Gears (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREGENERALSYMBOLS_U",
+    "Filename": "Graph.png",
+    "Master": "Graph"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREGENERALSYMBOLS_U",
+    "Filename": "Graph (Stackable).png",
+    "Master": "Graph (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREGENERALSYMBOLS_U",
+    "Filename": "Grid of Large Squares.png",
+    "Master": "Grid of Large Squares"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREGENERALSYMBOLS_U",
+    "Filename": "Grid of Squares.png",
+    "Master": "Grid of Squares"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREGENERALSYMBOLS_U",
+    "Filename": "Like.png",
+    "Master": "Like"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREGENERALSYMBOLS_U",
+    "Filename": "Like (Stackable).png",
+    "Master": "Like (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREGENERALSYMBOLS_U",
+    "Filename": "Not Allowed.png",
+    "Master": "Not Allowed"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREGENERALSYMBOLS_U",
+    "Filename": "Num Label Rotate Ptr.png",
+    "Master": "Num Label Rotate Ptr"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREGENERALSYMBOLS_U",
+    "Filename": "Number Label.png",
+    "Master": "Number Label"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREGENERALSYMBOLS_U",
+    "Filename": "Number Magenta.png",
+    "Master": "Number Magenta"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREGENERALSYMBOLS_U",
+    "Filename": "Number Orange.png",
+    "Master": "Number Orange"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREGENERALSYMBOLS_U",
+    "Filename": "Numbered Label.png",
+    "Master": "Numbered Label"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREGENERALSYMBOLS_U",
+    "Filename": "Slider Bar, Horz.png",
+    "Master": "Slider Bar, Horz"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREGENERALSYMBOLS_U",
+    "Filename": "Slider Bar, Vert.png",
+    "Master": "Slider Bar, Vert"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREGENERALSYMBOLS_U",
+    "Filename": "Task List or Backlog.png",
+    "Master": "Task List or Backlog"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREGENERALSYMBOLS_U",
+    "Filename": "Tasks (Opaque).png",
+    "Master": "Tasks (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREGENERALSYMBOLS_U",
+    "Filename": "Tunnel (Stackable).png",
+    "Master": "Tunnel (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREGENERALSYMBOLS_U",
+    "Filename": "User (Opaque).png",
+    "Master": "User (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREGENERALSYMBOLS_U",
+    "Filename": "Video (Stackable).png",
+    "Master": "Video (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREGENERALSYMBOLS_U",
+    "Filename": "Waiting.png",
+    "Master": "Waiting"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREINTUNE_U",
+    "Filename": "Apps.png",
+    "Master": "Apps"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREINTUNE_U",
+    "Filename": "Groups.png",
+    "Master": "Groups"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREINTUNE_U",
+    "Filename": "Policy.png",
+    "Master": "Policy"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREINTUNE_U",
+    "Filename": "Protection.png",
+    "Master": "Protection"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREINTUNE_U",
+    "Filename": "Account Portal.png",
+    "Master": "Account Portal"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREINTUNE_U",
+    "Filename": "Administration.png",
+    "Master": "Administration"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREINTUNE_U",
+    "Filename": "Alerts.png",
+    "Master": "Alerts"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREINTUNE_U",
+    "Filename": "Certificate Compliance.png",
+    "Master": "Certificate Compliance"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREINTUNE_U",
+    "Filename": "Client Software Deployment Wizard.png",
+    "Master": "Client Software Deployment Wizard"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREINTUNE_U",
+    "Filename": "Company Portal.png",
+    "Master": "Company Portal"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREINTUNE_U",
+    "Filename": "Computer Inventory.png",
+    "Master": "Computer Inventory"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREINTUNE_U",
+    "Filename": "Conditional Access_Exchange.png",
+    "Master": "Conditional Access_Exchange"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREINTUNE_U",
+    "Filename": "Connector.png",
+    "Master": "Connector"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREINTUNE_U",
+    "Filename": "Dashboard.png",
+    "Master": "Dashboard"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREINTUNE_U",
+    "Filename": "Data Migration Wizard.png",
+    "Master": "Data Migration Wizard"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREINTUNE_U",
+    "Filename": "Detected Software.png",
+    "Master": "Detected Software"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREINTUNE_U",
+    "Filename": "Device Group.png",
+    "Master": "Device Group"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREINTUNE_U",
+    "Filename": "Device Health.png",
+    "Master": "Device Health"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREINTUNE_U",
+    "Filename": "Device History.png",
+    "Master": "Device History"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREINTUNE_U",
+    "Filename": "Device OS.png",
+    "Master": "Device OS"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREINTUNE_U",
+    "Filename": "End Protection.png",
+    "Master": "End Protection"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREINTUNE_U",
+    "Filename": "Exchange Connector.png",
+    "Master": "Exchange Connector"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREINTUNE_U",
+    "Filename": "Expandable Cloud.png",
+    "Master": "Expandable Cloud"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREINTUNE_U",
+    "Filename": "Hybrid MDM.png",
+    "Master": "Hybrid MDM"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREINTUNE_U",
+    "Filename": "Intune Account Portal.png",
+    "Master": "Intune Account Portal"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREINTUNE_U",
+    "Filename": "Intune Certificate Profiles.png",
+    "Master": "Intune Certificate Profiles"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREINTUNE_U",
+    "Filename": "Intune Email Profiles.png",
+    "Master": "Intune Email Profiles"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREINTUNE_U",
+    "Filename": "Intune Managed App.png",
+    "Master": "Intune Managed App"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREINTUNE_U",
+    "Filename": "Intune Mobile Application Management.png",
+    "Master": "Intune Mobile Application Management"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREINTUNE_U",
+    "Filename": "Intune VPN Profiles.png",
+    "Master": "Intune VPN Profiles"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREINTUNE_U",
+    "Filename": "Intune Wi-Fi Profiles.png",
+    "Master": "Intune Wi-Fi Profiles"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREINTUNE_U",
+    "Filename": "Inventory License.png",
+    "Master": "Inventory License"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREINTUNE_U",
+    "Filename": "Inventory Software.png",
+    "Master": "Inventory Software"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREINTUNE_U",
+    "Filename": "License Group.png",
+    "Master": "License Group"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREINTUNE_U",
+    "Filename": "License Installation.png",
+    "Master": "License Installation"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREINTUNE_U",
+    "Filename": "Microsoft Intune.png",
+    "Master": "Microsoft Intune"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREINTUNE_U",
+    "Filename": "Mobile Inventory.png",
+    "Master": "Mobile Inventory"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREINTUNE_U",
+    "Filename": "Noncompliant Apps.png",
+    "Master": "Noncompliant Apps"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREINTUNE_U",
+    "Filename": "Reports.png",
+    "Master": "Reports"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREINTUNE_U",
+    "Filename": "Settings.png",
+    "Master": "Settings"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREINTUNE_U",
+    "Filename": "Subscription Portal.png",
+    "Master": "Subscription Portal"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREINTUNE_U",
+    "Filename": "Update.png",
+    "Master": "Update"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREINTUNE_U",
+    "Filename": "User Group.png",
+    "Master": "User Group"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREINTUNE_U",
+    "Filename": "User Management.png",
+    "Master": "User Management"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREINTUNE_U",
+    "Filename": "Terms and Conditions.png",
+    "Master": "Terms and Conditions"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREOMS_U",
+    "Filename": "Alerts.png",
+    "Master": "Alerts"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREOMS_U",
+    "Filename": "Jobs.png",
+    "Master": "Jobs"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREOMS_U",
+    "Filename": "Security.png",
+    "Master": "Security"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREOMS_U",
+    "Filename": "Services.png",
+    "Master": "Services"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREOMS_U",
+    "Filename": "App Wchanges.png",
+    "Master": "App W/changes"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREOMS_U",
+    "Filename": "Assessments.png",
+    "Master": "Assessments"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREOMS_U",
+    "Filename": "Capacity.png",
+    "Master": "Capacity"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREOMS_U",
+    "Filename": "Config Assessment.png",
+    "Master": "Config Assessment"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREOMS_U",
+    "Filename": "Dashboard.png",
+    "Master": "Dashboard"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREOMS_U",
+    "Filename": "Dependency Monitor.png",
+    "Master": "Dependency Monitor"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREOMS_U",
+    "Filename": "Diagnostics.png",
+    "Master": "Diagnostics"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREOMS_U",
+    "Filename": "Log Management.png",
+    "Master": "Log Management"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREOMS_U",
+    "Filename": "Log Search.png",
+    "Master": "Log Search"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREOMS_U",
+    "Filename": "Malware Assessment.png",
+    "Master": "Malware Assessment"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREOMS_U",
+    "Filename": "Overview.png",
+    "Master": "Overview"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREOMS_U",
+    "Filename": "Runbooks.png",
+    "Master": "Runbooks"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREOMS_U",
+    "Filename": "Server Wchanges.png",
+    "Master": "Server W/changes"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREOMS_U",
+    "Filename": "Solutions.png",
+    "Master": "Solutions"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREOMS_U",
+    "Filename": "System Update.png",
+    "Master": "System Update"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREOMS_U",
+    "Filename": "Track Changes.png",
+    "Master": "Track Changes"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREOMS_U",
+    "Filename": "Wire Data.png",
+    "Master": "Wire Data"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREOTHERMICROSOFTPRODUCTS_U",
+    "Filename": "Excel.png",
+    "Master": "Excel"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREOTHERMICROSOFTPRODUCTS_U",
+    "Filename": "SharePoint.png",
+    "Master": "SharePoint"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREOTHERMICROSOFTPRODUCTS_U",
+    "Filename": "Word.png",
+    "Master": "Word"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREOTHERMICROSOFTPRODUCTS_U",
+    "Filename": "Windows.png",
+    "Master": "Windows"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREOTHERMICROSOFTPRODUCTS_U",
+    "Filename": "Access.png",
+    "Master": "Access"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREOTHERMICROSOFTPRODUCTS_U",
+    "Filename": "Exchange.png",
+    "Master": "Exchange"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREOTHERMICROSOFTPRODUCTS_U",
+    "Filename": "Access (Opaque).png",
+    "Master": "Access (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREOTHERMICROSOFTPRODUCTS_U",
+    "Filename": "Cortana.png",
+    "Master": "Cortana"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREOTHERMICROSOFTPRODUCTS_U",
+    "Filename": "Excel (Opaque).png",
+    "Master": "Excel (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREOTHERMICROSOFTPRODUCTS_U",
+    "Filename": "Exchange (Opaque).png",
+    "Master": "Exchange (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREOTHERMICROSOFTPRODUCTS_U",
+    "Filename": "Lync.png",
+    "Master": "Lync"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREOTHERMICROSOFTPRODUCTS_U",
+    "Filename": "Lync (Opaque).png",
+    "Master": "Lync (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREOTHERMICROSOFTPRODUCTS_U",
+    "Filename": "Microsoft.png",
+    "Master": "Microsoft"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREOTHERMICROSOFTPRODUCTS_U",
+    "Filename": "Outlook.png",
+    "Master": "Outlook"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREOTHERMICROSOFTPRODUCTS_U",
+    "Filename": "Outlook (Opaque).png",
+    "Master": "Outlook (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREOTHERMICROSOFTPRODUCTS_U",
+    "Filename": "PowerApps.png",
+    "Master": "PowerApps"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREOTHERMICROSOFTPRODUCTS_U",
+    "Filename": "PowerPoint.png",
+    "Master": "PowerPoint"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREOTHERMICROSOFTPRODUCTS_U",
+    "Filename": "PowerPoint (Opaque).png",
+    "Master": "PowerPoint (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREOTHERMICROSOFTPRODUCTS_U",
+    "Filename": "SharePoint (Opaque).png",
+    "Master": "SharePoint (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREOTHERMICROSOFTPRODUCTS_U",
+    "Filename": "Skype.png",
+    "Master": "Skype"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREOTHERMICROSOFTPRODUCTS_U",
+    "Filename": "Visio.png",
+    "Master": "Visio"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREOTHERMICROSOFTPRODUCTS_U",
+    "Filename": "Visio (Opaque).png",
+    "Master": "Visio (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREOTHERMICROSOFTPRODUCTS_U",
+    "Filename": "Word (Opaque).png",
+    "Master": "Word (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREOTHERMICROSOFTPRODUCTS_U",
+    "Filename": "Xbox.png",
+    "Master": "Xbox"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREOTHERMICROSOFTPRODUCTS_U",
+    "Filename": "XBox One.png",
+    "Master": "XBox One"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURESYSTEMCENTER_U",
+    "Filename": "Central Administration Site.png",
+    "Master": "Central Administration Site"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURESYSTEMCENTER_U",
+    "Filename": "Cloud Distribution Point.png",
+    "Master": "Cloud Distribution Point"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURESYSTEMCENTER_U",
+    "Filename": "Primary Site.png",
+    "Master": "Primary Site"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURESYSTEMCENTER_U",
+    "Filename": "Software Update Point.png",
+    "Master": "Software Update Point"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURESYSTEMCENTER_U",
+    "Filename": "Central Administration Site_SQL.png",
+    "Master": "Central Administration Site_SQL"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURESYSTEMCENTER_U",
+    "Filename": "Distribution Point.png",
+    "Master": "Distribution Point"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURESYSTEMCENTER_U",
+    "Filename": "Management Point.png",
+    "Master": "Management Point"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURESYSTEMCENTER_U",
+    "Filename": "Roles (Class For Multiple Versions).png",
+    "Master": "Roles (Class For Multiple Versions)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURESYSTEMCENTER_U",
+    "Filename": "Secondary Site.png",
+    "Master": "Secondary Site"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZURESYSTEMCENTER_U",
+    "Filename": "System Center Admin Console.png",
+    "Master": "System Center Admin Console"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREVMSBYFUNCTION_U",
+    "Filename": "Active Directory VM.png",
+    "Master": "Active Directory VM"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREVMSBYFUNCTION_U",
+    "Filename": "Web Server VM.png",
+    "Master": "Web Server VM"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREVMSBYFUNCTION_U",
+    "Filename": "File Server VM.png",
+    "Master": "File Server VM"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREVMSBYFUNCTION_U",
+    "Filename": "Database Server VM.png",
+    "Master": "Database Server VM"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREVMSBYFUNCTION_U",
+    "Filename": "Active Directory VM Multi.png",
+    "Master": "Active Directory VM Multi"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREVMSBYFUNCTION_U",
+    "Filename": "Application Server VM.png",
+    "Master": "Application Server VM"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREVMSBYFUNCTION_U",
+    "Filename": "Application Server VM Multi.png",
+    "Master": "Application Server VM Multi"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREVMSBYFUNCTION_U",
+    "Filename": "Database Server VM Multi.png",
+    "Master": "Database Server VM Multi"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREVMSBYFUNCTION_U",
+    "Filename": "Directory Server VM.png",
+    "Master": "Directory Server VM"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREVMSBYFUNCTION_U",
+    "Filename": "Directory Server VM Multi.png",
+    "Master": "Directory Server VM Multi"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREVMSBYFUNCTION_U",
+    "Filename": "Domain Server VM.png",
+    "Master": "Domain Server VM"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREVMSBYFUNCTION_U",
+    "Filename": "Domain Server VM Multi.png",
+    "Master": "Domain Server VM Multi"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREVMSBYFUNCTION_U",
+    "Filename": "File Server.png",
+    "Master": "File Server"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREVMSBYFUNCTION_U",
+    "Filename": "File Server VM Multi.png",
+    "Master": "File Server VM Multi"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREVMSBYFUNCTION_U",
+    "Filename": "Web Server VM Multi.png",
+    "Master": "Web Server VM Multi"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREVMSBYFUNCTION_U",
+    "Filename": "Windows Server VM.png",
+    "Master": "Windows Server VM"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "",
+    "Stencil": "AZUREVMSBYFUNCTION_U",
+    "Filename": "Windows Server VM Multi.png",
+    "Master": "Windows Server VM Multi"
+  }
+]
