@@ -1,4 +1,4 @@
-<!doctype html>
++<!doctype html>
 <html lang="en">
   
   <!--  TODO: add a filter box to narrow it down -->
@@ -11,43 +11,58 @@
 	<meta name="description" content="Amazon AWS Icons, exported from Visio shapes, January 2020.">
 	<meta name="VisioGuy" content="SitePoint">
       
-	<!-- <script src="https://d3js.org/d3.v5.min.js"></script> -->
-    <style>
-      body { font-family: sans-serif; }
-      
-      /* Div Topography:
-         #icons > .icon-group > .icons > .icon 
-      */
-      
-      .icons {
-        display: flex;
-        flex-direction: row;
-        flex-wrap: wrap;
-        align-items: flex-start;
-        
-      }
-      
-      .icon {
-        flex: 0 0 6em; /* Shorthand for: flex-grow, flex-shrink, flex-basis */
-        align-content: center;
-        text-align: center;
-      }
-      
-      .icon-label {
-        font-size: smaller;
-        text-align: center;
-        margin: 5 5 10 5;
-      }
-      
-    </style>
+  <style>
+
+    body { font-family: sans-serif; }
+    h2 { font-size: medium; }
+    #search { background: darkred;
+              color: white;
+              padding: 10px; }
+
+
+    /* Div Topography: #icons > .icon-group > .icons > .icon > .icon-label  */
+
+    .icons {
+      display: flex;
+      flex-direction: row;
+      flex-wrap: wrap;
+      align-items: flex-start;
+
+    }
+
+    .icon {
+      flex: 0 0 6em; /* Shorthand for: flex-grow, flex-shrink, flex-basis */
+      align-content: center;
+      text-align: center;
+    }
+
+    .icon.hide {
+      display: none;
+    }
+
+    .icon-label {
+      font-size: smaller;
+      text-align: center;
+      margin: 5 5 10 5;
+    }
+
+  </style>
 	
+  <!-- <script src="https://d3js.org/d3.v5.min.js"></script> -->
 	<script src="script/d3.v5.min.js"></script> 
 	
   </head>
   
   <body>
  
-  
+    <div id="search" >
+      <label for="filter-text">Filter:</label> <!-- for should match id, not name -->
+      <input id="filter-text"
+             type="text"  name="name" required
+             minlength="0" maxlength="10" size="10">  
+      <button id="btnClearSearch" title="Clear search" >✕</button>
+    </div>
+    
     <h1>
       AWS Icons
     </h1>
@@ -55,17 +70,52 @@
     <div id="icons">
       <!-- js fills in the stencils and masters here -->
     </div>
-	<img src="icons/Account.png" />
     
   <script>
+    
+    // Set up the events for the search form:
+    
+    // Clear the filter text:
+    d3.selectAll("#btnClearSearch").on("click", () => {      
+      d3.select("#filter-text").node().value = "";
+      updateSearch();
+    });
+    
+    // React to changes in the filter text:
+    d3.selectAll("#filter-text").on("input", () => {      
+      updateSearch();      
+    });
+    
+    function updateSearch() {
+      
+      let val = d3.select("#filter-text").node().value.trim().toLowerCase();
+      
+      let found = true;
+      d3.selectAll(".icon-label")
+        .each( function() {
+        
+        let dpar = d3.select(this.parentNode);
+        
+        if(val.length > 0) {
+          
+          // Analyze non-trivial search strings:
+          let d = d3.select(this);
+          let t = d.text().trim().toLowerCase();
+          
+          // Calculate found:
+          found = t.includes(val);             
+        }
+        
+        // Show/hide the parent div according to the found flag:
+        dpar.classed("hide", ! found);
+            
+      });
+    }
       
     let divPar = d3.select("#icons");
         
     d3.json("icons/icon-data.json").then(
-      function(data) {
-        
-		  console.log("here");
-		  
+      function(data) {        
 				
         // Group all of the data items by stencil name,
         // sorting by stencil name, then by master name:
@@ -74,17 +124,13 @@
           .sortKeys(d3.ascending)    
           .sortValues((a,b) => a.Master.localeCompare(b.Master) )
           .entries(data);
-        
-        //console.log(itemsByMaster);
-        
+                
         let ct = 0;
         
         divPar.selectAll("div")
           .data(itemsByMaster)
           .enter()
           .each((d, i) => {
-                            
-          //console.log(d, i);
           
           // Add a div for the stencil, and give it a
           // heading the shows the name of the stencil:
@@ -114,10 +160,6 @@
               let dpr = divIcn.append("p")
                           .classed("icon-label", true);
             
-//              dpr.append("span")
-//                  .text(() => `${ct}. ` )     
-//                  .style("color", "lightgray")
-//                ;
               dpr.append("span")
                   .text(() => `${d.Master}` )            
                 ;
@@ -129,18 +171,7 @@
       }
     );
     
-    //d3.json("mydata.json").then(function(data) {
-    
-    //console.log("boo");
-    
-//  {
-//    "SetName": "AWS",
-//    "Folder": "",
-//    "Stencil": "Business Applications",
-//    "Filename": "Business Applications.png",
-//    "Master": "Business Applications"
-//  },    
-    
+      
   </script>
   
   </body>
