@@ -8,3 +8,6 @@ https://visioguy.github.io/IconSets/aws/index.html
 
 Microsoft Azure Icons
 https://visioguy.github.io/IconSets/azure/index.html
+
+TODO: link to actual shape downloads on Amazon's and Microsoft's sites.
+
