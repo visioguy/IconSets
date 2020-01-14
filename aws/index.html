@@ -60,7 +60,7 @@
       
     let divPar = d3.select("#icons");
         
-    d3.json("/icons/_iconData.json").then(
+    d3.json("icons/_iconData.json").then(
       function(data) {
                 
         // Group all of the data items by stencil name,
@@ -104,7 +104,7 @@
                 .classed("icon", true);
 
               divIcn.append("img")
-                .attr("src", `/icons/${d.Filename}`)
+                .attr("src", `icons/${d.Filename}`)
                 //.attr("width", 40)
                 ;
               let dpr = divIcn.append("p")
