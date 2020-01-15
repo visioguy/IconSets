@@ -1,0 +1,4405 @@
+[
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "microsoft_azure.png",
+    "Master": "Microsoft Azure"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "virtual_machine.png",
+    "Master": "Virtual Machine"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "azure_sql_database.png",
+    "Master": "Azure SQL Database"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "azure_active_directory.png",
+    "Master": "Azure Active Directory"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "azure_vpn_gateway.png",
+    "Master": "Azure VPN Gateway"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "dns.png",
+    "Master": "DNS"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "affinity_group.png",
+    "Master": "Affinity Group"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "analysis_services.png",
+    "Master": "Analysis Services"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "api_app.png",
+    "Master": "API App"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "api_app_(opaque).png",
+    "Master": "API App (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "api_management.png",
+    "Master": "API Management"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "app_service.png",
+    "Master": "App Service"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "app_service_(opaque).png",
+    "Master": "App Service (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "app_service_workerpools.png",
+    "Master": "App Service WorkerPools"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "application_gateway_(new).png",
+    "Master": "Application Gateway (New)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "application_insights.png",
+    "Master": "Application Insights"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "application_insights_(opaque).png",
+    "Master": "Application Insights (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "autoscaling.png",
+    "Master": "Autoscaling"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "autoscaling_(opaque).png",
+    "Master": "Autoscaling (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "availability_set.png",
+    "Master": "Availability Set"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "availability_set_(new).png",
+    "Master": "Availability Set (New)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "azure_active_directory_(opaque).png",
+    "Master": "Azure Active Directory (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "azure_advisor.png",
+    "Master": "Azure Advisor"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "azure_alert.png",
+    "Master": "Azure Alert"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "azure_alert_(opaque).png",
+    "Master": "Azure Alert (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "azure_automatic_load_balancer.png",
+    "Master": "Azure Automatic Load Balancer"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "azure_automatic_load_balancer_(stackable).png",
+    "Master": "Azure Automatic Load Balancer (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "azure_automation.png",
+    "Master": "Azure Automation"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "azure_automation_(opaque).png",
+    "Master": "Azure Automation (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "azure_automation_runbook.png",
+    "Master": "Azure Automation Runbook"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "azure_backup.png",
+    "Master": "Azure Backup"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "azure_backup_(opaque).png",
+    "Master": "Azure Backup (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "azure_batch.png",
+    "Master": "Azure Batch"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "azure_batch_(opaque).png",
+    "Master": "Azure Batch (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "azure_cache_(stackable).png",
+    "Master": "Azure Cache (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "azure_cache_including_redis.png",
+    "Master": "Azure Cache Including Redis"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "azure_files.png",
+    "Master": "Azure Files"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "azure_files_(opaque).png",
+    "Master": "Azure Files (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "azure_functions.png",
+    "Master": "Azure Functions"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "azure_key_vault.png",
+    "Master": "Azure Key Vault"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "azure_key_vault_(opaque).png",
+    "Master": "Azure Key Vault (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "azure_load_balancer.png",
+    "Master": "Azure Load Balancer"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "azure_load_balancer_(opaque).png",
+    "Master": "Azure Load Balancer (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "azure_marketplace.png",
+    "Master": "Azure Marketplace"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "azure_marketplace_(opaque).png",
+    "Master": "Azure Marketplace (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "azure_rights_management.png",
+    "Master": "Azure Rights Management"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "azure_rights_management_(opaque).png",
+    "Master": "Azure Rights Management (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "azure_sdk.png",
+    "Master": "Azure SDK"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "azure_sdk_(stackable).png",
+    "Master": "Azure SDK (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "azure_search.png",
+    "Master": "Azure Search"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "azure_sql_database_(stackable).png",
+    "Master": "Azure SQL Database (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "azure_stack.png",
+    "Master": "Azure Stack"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "azure_subscription.png",
+    "Master": "Azure Subscription"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "azure_subscription_(opaque).png",
+    "Master": "Azure Subscription (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "backup_agent.png",
+    "Master": "Backup Agent"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "backup_agent_(opaque).png",
+    "Master": "Backup Agent (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "backup_or_recovery_vault.png",
+    "Master": "Backup Or Recovery Vault"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "batch.png",
+    "Master": "Batch"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "bitbucket_code_source.png",
+    "Master": "Bitbucket Code Source"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "bitbucket_code_source_(stackable).png",
+    "Master": "Bitbucket Code Source (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "biztalk_services.png",
+    "Master": "BizTalk Services"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "biztalk_services_(opaque).png",
+    "Master": "BizTalk Services (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "bot_service.png",
+    "Master": "Bot Service"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "cloud_service.png",
+    "Master": "Cloud Service"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "cloud_service_(opaque).png",
+    "Master": "Cloud Service (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "cloud,_office_365.png",
+    "Master": "Cloud, Office 365"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "cloud,_office_365_(opaque).png",
+    "Master": "Cloud, Office 365 (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "codeplex.png",
+    "Master": "CodePlex"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "codeplex_(stackable).png",
+    "Master": "CodePlex (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "cognitive_services.png",
+    "Master": "Cognitive Services"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "cognitive_services_(opaque).png",
+    "Master": "Cognitive Services (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "container_registry.png",
+    "Master": "Container Registry"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "container_service.png",
+    "Master": "Container Service"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "content_delivery_network_(cdn).png",
+    "Master": "Content Delivery Network (CDN)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "cortana_analytics.png",
+    "Master": "Cortana Analytics"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "data_factory.png",
+    "Master": "Data Factory"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "data_factory_(opaque).png",
+    "Master": "Data Factory (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "data_lake_(nc).png",
+    "Master": "Data Lake (nc)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "data_lake_analytics.png",
+    "Master": "Data Lake Analytics"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "data_lake_store_(nc).png",
+    "Master": "Data Lake Store (nc)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "devtest_labs.png",
+    "Master": "DevTest Labs"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "directory_health_monitoring.png",
+    "Master": "Directory Health Monitoring"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "dns_(opaque).png",
+    "Master": "DNS (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "docdb_account.png",
+    "Master": "DocDB Account"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "docdb_collection.png",
+    "Master": "DocDB Collection"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "documentdb.png",
+    "Master": "DocumentDB"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "documentdb_(stackable).png",
+    "Master": "DocumentDB (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "documentdb_document.png",
+    "Master": "DocumentDB Document"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "documentdb_document_(opaque).png",
+    "Master": "DocumentDB Document (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "dropbox_code_source.png",
+    "Master": "Dropbox Code Source"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "dropbox_code_source_(stackable).png",
+    "Master": "Dropbox Code Source (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "event_hubs.png",
+    "Master": "Event Hubs"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "event_hubs_(opaque).png",
+    "Master": "Event Hubs (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "expressroute.png",
+    "Master": "ExpressRoute"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "expressroute_(opaque).png",
+    "Master": "ExpressRoute (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "git_repository.png",
+    "Master": "Git Repository"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "git_repository_(stackable).png",
+    "Master": "Git Repository (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "github.png",
+    "Master": "GitHub"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "github_code_(stackable).png",
+    "Master": "GitHub Code (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "hdinsight.png",
+    "Master": "HDInsight"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "hdinsight_(stackable).png",
+    "Master": "HDInsight (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "hockeyapp.png",
+    "Master": "HockeyApp"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "hybrid_connection.png",
+    "Master": "Hybrid Connection"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "hybrid_connection_manager_for_biztalk_hybrid_connection.png",
+    "Master": "Hybrid Connection Manager For BizTalk Hybrid Connection"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "iot_hub.png",
+    "Master": "IoT Hub"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "iot_hub_(opaque).png",
+    "Master": "IoT Hub (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "logic_app.png",
+    "Master": "Logic App"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "logic_app_(opaque).png",
+    "Master": "Logic App (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "machine_learning_(nc).png",
+    "Master": "Machine Learning (nc)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "management_portal.png",
+    "Master": "Management Portal"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "media_services.png",
+    "Master": "Media Services"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "media_services_(stackable).png",
+    "Master": "Media Services (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "microsoft_account.png",
+    "Master": "Microsoft Account"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "microsoft_account_(stackable).png",
+    "Master": "Microsoft Account (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "microsoft_bi.png",
+    "Master": "Microsoft BI"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "mobile_app_(opaque)_(was_mobile_services).png",
+    "Master": "Mobile App (Opaque) (Was Mobile Services)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "mobile_app_(was_mobile_services).png",
+    "Master": "Mobile App (Was Mobile Services)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "mobile_engagement.png",
+    "Master": "Mobile Engagement"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "mobile_engagement_(opaque).png",
+    "Master": "Mobile Engagement (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "monitor.png",
+    "Master": "Monitor"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "multi-factor_authentication.png",
+    "Master": "Multi-Factor Authentication"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "multi-factor_authentication_(opaque).png",
+    "Master": "Multi-Factor Authentication (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "mysql_database.png",
+    "Master": "MySQL Database"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "mysql_database_(stackable).png",
+    "Master": "MySQL Database (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "notification_hubs.png",
+    "Master": "Notification Hubs"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "notification_hubs_(opaque).png",
+    "Master": "Notification Hubs (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "office_365.png",
+    "Master": "Office 365"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "office_365_(opaque).png",
+    "Master": "Office 365 (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "office_365_subscription.png",
+    "Master": "Office 365 Subscription"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "oms.png",
+    "Master": "OMS"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "oms_(opaque).png",
+    "Master": "OMS (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "oms_log_analytics_(nc).png",
+    "Master": "OMS Log Analytics (nc)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "os_image.png",
+    "Master": "OS Image"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "os_image_(stackable).png",
+    "Master": "OS Image (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "recovery_vault.png",
+    "Master": "Recovery Vault"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "remoteapp.png",
+    "Master": "RemoteApp"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "remoteapp_(opaque).png",
+    "Master": "RemoteApp (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "resource_group.png",
+    "Master": "Resource Group"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "resource_group_(opaque).png",
+    "Master": "Resource Group (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "scheduler.png",
+    "Master": "Scheduler"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "scheduler_(stackable).png",
+    "Master": "Scheduler (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "security_center.png",
+    "Master": "Security Center"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "service_bus.png",
+    "Master": "Service Bus"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "service_bus_relay_(nc).png",
+    "Master": "Service Bus Relay (nc)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "service_bus_topic.png",
+    "Master": "Service Bus Topic"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "service_endpoint.png",
+    "Master": "Service Endpoint"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "service_fabric.png",
+    "Master": "Service Fabric"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "service_fabric_(opaque).png",
+    "Master": "Service Fabric (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "site_recovery.png",
+    "Master": "Site Recovery"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "site_recovery_(opaque).png",
+    "Master": "Site Recovery (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "smart_virtual_network_box.png",
+    "Master": "Smart Virtual Network Box"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "sql_elastic_pools.png",
+    "Master": "SQL Elastic Pools"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "sql_data_sync.png",
+    "Master": "SQL Data Sync"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "sql_data_sync_(stackable).png",
+    "Master": "SQL Data Sync (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "sql_database_(generic).png",
+    "Master": "SQL Database (Generic)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "sql_database_(generic)_(stackable).png",
+    "Master": "SQL Database (Generic) (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "sql_datawarehouse.png",
+    "Master": "SQL DataWarehouse"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "sql_elastic_database_pools.png",
+    "Master": "SQL Elastic Database Pools"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "sql_stretch_database_(nc).png",
+    "Master": "SQL Stretch Database (nc)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "startup_task.png",
+    "Master": "Startup Task"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "startup_task_(stackable).png",
+    "Master": "Startup Task (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "storage.png",
+    "Master": "Storage"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "storage_(azure).png",
+    "Master": "Storage (Azure)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "storage_(azure)_(opaque).png",
+    "Master": "Storage (Azure) (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "storage_blob.png",
+    "Master": "Storage Blob"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "storage_blob_(stackable).png",
+    "Master": "Storage Blob (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "storage_queue.png",
+    "Master": "Storage Queue"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "storage_queue_(stackable).png",
+    "Master": "Storage Queue (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "storage_table.png",
+    "Master": "Storage Table"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "storage_table_(stackable).png",
+    "Master": "Storage Table (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "storsimple.png",
+    "Master": "StorSimple"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "storsimple_(opaque).png",
+    "Master": "StorSimple (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "stream_analytics.png",
+    "Master": "Stream Analytics"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "stream_analytics_(opaque).png",
+    "Master": "Stream Analytics (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "traffic_manager.png",
+    "Master": "Traffic Manager"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "traffic_manager_(opaque).png",
+    "Master": "Traffic Manager (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "unidentified_feature_object.png",
+    "Master": "Unidentified Feature Object"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "unidentified_feature_object_(stackable).png",
+    "Master": "Unidentified Feature Object (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "vhd.png",
+    "Master": "VHD"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "vhd_(opaque).png",
+    "Master": "VHD (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "vhd_data_disk.png",
+    "Master": "VHD Data Disk"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "vhd_data_disk_(stackable).png",
+    "Master": "VHD Data Disk (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "virtual_machine_(stackable).png",
+    "Master": "Virtual Machine (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "virtual_machine_container.png",
+    "Master": "Virtual machine container"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "virtual_network.png",
+    "Master": "Virtual Network"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "virtual_network_box.png",
+    "Master": "Virtual Network Box"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "visual_studio_team_services.png",
+    "Master": "Visual Studio Team Services"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "vm_scale_set.png",
+    "Master": "VM Scale Set"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "vm_symbol_only.png",
+    "Master": "VM Symbol Only"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "vpn_gateway.png",
+    "Master": "VPN Gateway"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "web_app_(opaque)_(was_websites).png",
+    "Master": "Web App (Opaque) (Was Websites)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "web_app_(was_websites).png",
+    "Master": "Web App (Was Websites)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "web_role.png",
+    "Master": "Web Role"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "web_role_(opaque).png",
+    "Master": "Web Role (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "web_roles.png",
+    "Master": "Web Roles"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "web_roles_(opaque).png",
+    "Master": "Web Roles (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "webhook.png",
+    "Master": "Webhook"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "webjobs.png",
+    "Master": "WebJobs"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "webjobs_(opaque).png",
+    "Master": "WebJobs (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "work_account.png",
+    "Master": "Work Account"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "work_account_(opaque).png",
+    "Master": "Work Account (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "worker_role.png",
+    "Master": "Worker Role"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "worker_role_(opaque).png",
+    "Master": "Worker Role (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "worker_roles.png",
+    "Master": "Worker Roles"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURECLOUD_U",
+    "Filename": "worker_roles_(opaque).png",
+    "Master": "Worker Roles (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREDEPRECATED_U",
+    "Filename": "hd_insight.png",
+    "Master": "HD Insight"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREDEPRECATED_U",
+    "Filename": "sql_reporting.png",
+    "Master": "SQL Reporting"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREDEPRECATED_U",
+    "Filename": "vhd.png",
+    "Master": "VHD"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREDEPRECATED_U",
+    "Filename": "microsoft_azure_t.png",
+    "Master": "Microsoft Azure.t"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREDEPRECATED_U",
+    "Filename": "cscfg_service_configuration_file_t.png",
+    "Master": ".cscfg Service Configuration File.t"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREDEPRECATED_U",
+    "Filename": "csdef_service_definition_file_t.png",
+    "Master": ".csdef Service Definition File.t"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREDEPRECATED_U",
+    "Filename": "cspkg_(service_package)_t.png",
+    "Master": ".cspkg (Service Package).t"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREDEPRECATED_U",
+    "Filename": "cspkg_(service_package)_t_32.png",
+    "Master": ".cspkg (Service Package).t.32"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREDEPRECATED_U",
+    "Filename": "wadcfg_diagnostics_config_t.png",
+    "Master": ".wadcfg Diagnostics Config.t"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREDEPRECATED_U",
+    "Filename": "access_control.png",
+    "Master": "Access Control"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREDEPRECATED_U",
+    "Filename": "application_gateway.png",
+    "Master": "Application Gateway"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREDEPRECATED_U",
+    "Filename": "application_gateway_(opaque).png",
+    "Master": "Application Gateway (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREDEPRECATED_U",
+    "Filename": "azure_poster_arrow.png",
+    "Master": "Azure Poster Arrow"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREDEPRECATED_U",
+    "Filename": "content_delivery_network_(cdn).png",
+    "Master": "Content Delivery Network (CDN)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREDEPRECATED_U",
+    "Filename": "content_delivery_network_(cdn)_(stackable).png",
+    "Master": "Content Delivery Network (CDN) (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREDEPRECATED_U",
+    "Filename": "data_lake.png",
+    "Master": "Data Lake"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREDEPRECATED_U",
+    "Filename": "data_lake_(opaque).png",
+    "Master": "Data Lake (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREDEPRECATED_U",
+    "Filename": "datalake_analytics.png",
+    "Master": "DataLake Analytics"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREDEPRECATED_U",
+    "Filename": "datalake_store.png",
+    "Master": "DataLake Store"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREDEPRECATED_U",
+    "Filename": "file_t.png",
+    "Master": "File.t"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREDEPRECATED_U",
+    "Filename": "hd_insight_(stackable).png",
+    "Master": "HD Insight (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREDEPRECATED_U",
+    "Filename": "machine_learning.png",
+    "Master": "Machine Learning"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREDEPRECATED_U",
+    "Filename": "machine_learning_(opaque).png",
+    "Master": "Machine Learning (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREDEPRECATED_U",
+    "Filename": "management_certificate_t.png",
+    "Master": "Management Certificate.t"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREDEPRECATED_U",
+    "Filename": "notification_topic.png",
+    "Master": "Notification Topic"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREDEPRECATED_U",
+    "Filename": "notification_topic_(stackable).png",
+    "Master": "Notification Topic (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREDEPRECATED_U",
+    "Filename": "operational_insights.png",
+    "Master": "Operational Insights"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREDEPRECATED_U",
+    "Filename": "operational_insights_(opaque).png",
+    "Master": "Operational Insights (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREDEPRECATED_U",
+    "Filename": "service_bus.png",
+    "Master": "Service Bus"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREDEPRECATED_U",
+    "Filename": "service_bus_(opaque).png",
+    "Master": "Service Bus (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREDEPRECATED_U",
+    "Filename": "service_bus_queue.png",
+    "Master": "Service Bus Queue"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREDEPRECATED_U",
+    "Filename": "service_bus_queue_(opaque).png",
+    "Master": "Service Bus Queue (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREDEPRECATED_U",
+    "Filename": "service_bus_relay.png",
+    "Master": "Service Bus Relay"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREDEPRECATED_U",
+    "Filename": "service_bus_relay_(opaque).png",
+    "Master": "Service Bus Relay (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREDEPRECATED_U",
+    "Filename": "service_bus_topic.png",
+    "Master": "Service Bus Topic"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREDEPRECATED_U",
+    "Filename": "service_bus_topic_(stackable).png",
+    "Master": "Service Bus Topic (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREDEPRECATED_U",
+    "Filename": "service_certificate_t.png",
+    "Master": "Service Certificate.t"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREDEPRECATED_U",
+    "Filename": "service_package.png",
+    "Master": "Service Package"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREDEPRECATED_U",
+    "Filename": "service_package_(stackable).png",
+    "Master": "Service Package (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREDEPRECATED_U",
+    "Filename": "sql_data_warehouse.png",
+    "Master": "SQL Data Warehouse"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREDEPRECATED_U",
+    "Filename": "sql_data_warehouse_(opaque).png",
+    "Master": "SQL Data Warehouse (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREDEPRECATED_U",
+    "Filename": "sql_reporting_(opaque).png",
+    "Master": "SQL Reporting (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREDEPRECATED_U",
+    "Filename": "sql_stretch_database.png",
+    "Master": "SQL Stretch Database"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREDEPRECATED_U",
+    "Filename": "vhd_(stackable).png",
+    "Master": "VHD (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREDEPRECATED_U",
+    "Filename": "web_role_(opaque).png",
+    "Master": "Web Role (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREDRAWING_U",
+    "Filename": "primary_box.png",
+    "Master": "Primary Box"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREDRAWING_U",
+    "Filename": "line_1.png",
+    "Master": "Line 1"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREDRAWING_U",
+    "Filename": "arrow_(azure_poster_style).png",
+    "Master": "Arrow (Azure Poster Style)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREDRAWING_U",
+    "Filename": "multi-branch_line.png",
+    "Master": "Multi-Branch Line"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREDRAWING_U",
+    "Filename": "1d_wide_arrow_double.png",
+    "Master": "1D Wide Arrow Double"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREDRAWING_U",
+    "Filename": "3rd_box_color.png",
+    "Master": "3rd Box Color"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREDRAWING_U",
+    "Filename": "alignment_helper2.png",
+    "Master": "Alignment Helper2"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREDRAWING_U",
+    "Filename": "arrow_(azure_poster_style)_131.png",
+    "Master": "Arrow (Azure Poster Style).131"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREDRAWING_U",
+    "Filename": "arrow_arc.png",
+    "Master": "Arrow Arc"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREDRAWING_U",
+    "Filename": "arrow_dyn_connector.png",
+    "Master": "Arrow Dyn Connector"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREDRAWING_U",
+    "Filename": "arrow_straight.png",
+    "Master": "Arrow Straight"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREDRAWING_U",
+    "Filename": "arrow1_horz_text.png",
+    "Master": "Arrow1 Horz Text"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREDRAWING_U",
+    "Filename": "arrow2.png",
+    "Master": "Arrow2"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREDRAWING_U",
+    "Filename": "arrow2_horz_text_wb.png",
+    "Master": "Arrow2 Horz Text WB"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREDRAWING_U",
+    "Filename": "arrow2_white_background_(wb).png",
+    "Master": "Arrow2 White Background (WB)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREDRAWING_U",
+    "Filename": "blow_out_dotted_line.png",
+    "Master": "Blow Out Dotted Line"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREDRAWING_U",
+    "Filename": "border_for_8_5x11.png",
+    "Master": "BORDER For 8.5x11"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREDRAWING_U",
+    "Filename": "box_2.png",
+    "Master": "Box 2"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREDRAWING_U",
+    "Filename": "box_3.png",
+    "Master": "Box 3"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREDRAWING_U",
+    "Filename": "dotted_line_box_no_fill.png",
+    "Master": "Dotted Line Box No Fill"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREDRAWING_U",
+    "Filename": "golden_mean_rectangle.png",
+    "Master": "Golden Mean Rectangle"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREDRAWING_U",
+    "Filename": "line_1_one_arrow.png",
+    "Master": "Line 1 One Arrow"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREDRAWING_U",
+    "Filename": "line_color_2.png",
+    "Master": "Line Color 2"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREDRAWING_U",
+    "Filename": "line_wb.png",
+    "Master": "Line WB"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREDRAWING_U",
+    "Filename": "line1_color_3.png",
+    "Master": "Line1 Color 3"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREDRAWING_U",
+    "Filename": "line1_double_arrow.png",
+    "Master": "Line1 Double Arrow"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREDRAWING_U",
+    "Filename": "linefat_right.png",
+    "Master": "LineFat Right"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREDRAWING_U",
+    "Filename": "linewb1_attach_center_shape.png",
+    "Master": "LineWB1 Attach Center Shape"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREDRAWING_U",
+    "Filename": "multi-branch_line_(45_ddeg_angle).png",
+    "Master": "Multi-Branch Line (45 Ddeg Angle)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREDRAWING_U",
+    "Filename": "num_label_rotate_ptr.png",
+    "Master": "Num Label Rotate Ptr"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREDRAWING_U",
+    "Filename": "numbered_label.png",
+    "Master": "Numbered Label"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREDRAWING_U",
+    "Filename": "primary_box_color.png",
+    "Master": "Primary Box Color"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREDRAWING_U",
+    "Filename": "secondary_box.png",
+    "Master": "Secondary Box"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREDRAWING_U",
+    "Filename": "segoe_ui_text_10pt.png",
+    "Master": "Segoe UI Text 10pt"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREDRAWING_U",
+    "Filename": "white_square_to_block_out.png",
+    "Master": "White Square To Block Out"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "application_server.png",
+    "Master": "Application Server"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "storage.png",
+    "Master": "Storage"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "web_server.png",
+    "Master": "Web Server"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "server_directory.png",
+    "Master": "Server Directory"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "internet.png",
+    "Master": "Internet"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "router.png",
+    "Master": "Router"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "rdp_remoting_file.png",
+    "Master": ".rdp Remoting File"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "rdp_remoting_file_(stackable).png",
+    "Master": ".rdp Remoting File (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "ad_fs.png",
+    "Master": "AD FS"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "ad_fs_(stackable).png",
+    "Master": "AD FS (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "android_phone.png",
+    "Master": "Android Phone"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "application_(blank_for_text).png",
+    "Master": "Application (Blank For Text)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "application_-generic.png",
+    "Master": "Application -Generic"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "application_server_(opaque).png",
+    "Master": "Application Server (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "azure_pack.png",
+    "Master": "Azure Pack"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "backup,_local.png",
+    "Master": "Backup, Local"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "backup,_local_(stackable).png",
+    "Master": "Backup, Local (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "backup,_online.png",
+    "Master": "Backup, Online"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "backup,_online_(stackable).png",
+    "Master": "Backup, Online (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "certificate.png",
+    "Master": "Certificate"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "certificate_(stackable).png",
+    "Master": "Certificate (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "client_application.png",
+    "Master": "Client Application"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "client_application_(stackable).png",
+    "Master": "Client Application (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "cloud.png",
+    "Master": "Cloud"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "cloud_(opaque).png",
+    "Master": "Cloud (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "cluster_server.png",
+    "Master": "Cluster Server"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "cluster_server_(stackable).png",
+    "Master": "Cluster Server (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "code_file.png",
+    "Master": "Code File"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "code_file_(stackable).png",
+    "Master": "Code File (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "connectors.png",
+    "Master": "Connectors"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "connectors_(stackable).png",
+    "Master": "Connectors (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "database_generic.png",
+    "Master": "Database Generic"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "database_generic_(stackable).png",
+    "Master": "Database Generic (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "database_server.png",
+    "Master": "Database Server"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "database_server_(stackable).png",
+    "Master": "Database Server (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "database_synchronization.png",
+    "Master": "Database Synchronization"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "database_synchronization_(stackable).png",
+    "Master": "Database Synchronization (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "device.png",
+    "Master": "Device"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "device_(stackable).png",
+    "Master": "Device (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "direct_access.png",
+    "Master": "Direct Access"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "direct_access_(stackable).png",
+    "Master": "Direct Access (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "document.png",
+    "Master": "Document"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "document_(stackable).png",
+    "Master": "Document (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "domain_controller.png",
+    "Master": "Domain Controller"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "domain_controller_(stackable).png",
+    "Master": "Domain Controller (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "enterprise_(stackable).png",
+    "Master": "Enterprise (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "enterprise__building.png",
+    "Master": "Enterprise / Building"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "file,_general.png",
+    "Master": "File, General"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "file,_general_(stackable).png",
+    "Master": "File, General (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "filter.png",
+    "Master": "Filter"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "filter_(stackable).png",
+    "Master": "Filter (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "firewall.png",
+    "Master": "Firewall"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "firewall_(stackable).png",
+    "Master": "Firewall (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "folder.png",
+    "Master": "Folder"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "folder_(stackable).png",
+    "Master": "Folder (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "gateway.png",
+    "Master": "Gateway"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "gateway_(stackable).png",
+    "Master": "Gateway (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "generic_app_(stackable).png",
+    "Master": "Generic App (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "generic_code.png",
+    "Master": "Generic Code"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "generic_code_(opaque).png",
+    "Master": "Generic Code (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "generic_server_(stackable).png",
+    "Master": "Generic Server (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "health_monitoring.png",
+    "Master": "Health Monitoring"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "health_monitoring_(stackable).png",
+    "Master": "Health Monitoring (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "healthy.png",
+    "Master": "Healthy"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "healthy_(opaque).png",
+    "Master": "Healthy (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "import_generic.png",
+    "Master": "Import Generic"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "import_generic_(stackable).png",
+    "Master": "Import Generic (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "internet_(hollow).png",
+    "Master": "Internet (Hollow)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "internet_(stackable).png",
+    "Master": "Internet (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "internet_white_(opaque).png",
+    "Master": "Internet White (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "iphone.png",
+    "Master": "iPhone"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "key,_permissions.png",
+    "Master": "Key, Permissions"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "key,_permissions_(stackable).png",
+    "Master": "Key, Permissions (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "keyboard.png",
+    "Master": "Keyboard"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "keyboard_(stackable).png",
+    "Master": "Keyboard (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "laptop_(stackable).png",
+    "Master": "Laptop (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "laptop_computer.png",
+    "Master": "Laptop Computer"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "load_balancer.png",
+    "Master": "Load Balancer"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "load_balancer_(stackable).png",
+    "Master": "Load Balancer (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "lock_unlocked,_accessible.png",
+    "Master": "Lock Unlocked, Accessible"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "lock,_protected.png",
+    "Master": "Lock, Protected"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "lock,_protected_(stackable).png",
+    "Master": "Lock, Protected (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "lock,_unprotected_(stackable).png",
+    "Master": "Lock, Unprotected (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "maintenance.png",
+    "Master": "Maintenance"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "maintenance_(stackable).png",
+    "Master": "Maintenance (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "management_console.png",
+    "Master": "Management Console"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "management_console_(stackable).png",
+    "Master": "Management Console (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "message.png",
+    "Master": "Message"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "message_(stackable).png",
+    "Master": "Message (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "monitor.png",
+    "Master": "Monitor"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "monitor_(stackable).png",
+    "Master": "Monitor (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "monitor_running_apps.png",
+    "Master": "Monitor Running Apps"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "monitor_running_apps_(stackable).png",
+    "Master": "Monitor Running Apps (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "mouse.png",
+    "Master": "Mouse"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "mouse_(stackable).png",
+    "Master": "Mouse (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "network_card.png",
+    "Master": "Network Card"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "network_card_(stackable).png",
+    "Master": "Network Card (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "performance.png",
+    "Master": "Performance"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "performance_(stackable).png",
+    "Master": "Performance (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "performance_monitor.png",
+    "Master": "Performance Monitor"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "performance_monitor_(stackable).png",
+    "Master": "Performance Monitor (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "phone.png",
+    "Master": "Phone"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "phone_(stackable).png",
+    "Master": "Phone (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "plug_and_play.png",
+    "Master": "Plug and Play"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "plug_and_play_(stackable).png",
+    "Master": "Plug and Play (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "powershell_script_file.png",
+    "Master": "Powershell Script File"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "powershell_script_file_(stackable).png",
+    "Master": "Powershell Script File (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "protocol_stack.png",
+    "Master": "Protocol Stack"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "protocol_stack_(stackable).png",
+    "Master": "Protocol Stack (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "queue,_general.png",
+    "Master": "Queue, General"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "queue,_general_(stackable).png",
+    "Master": "Queue, General (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "rms_connector.png",
+    "Master": "RMS Connector"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "rms_connector_(stackable).png",
+    "Master": "RMS Connector (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "router_(stackable).png",
+    "Master": "Router (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "script_file.png",
+    "Master": "Script File"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "script_file_(stackable).png",
+    "Master": "Script File (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "secure_virtual_machine.png",
+    "Master": "Secure Virtual Machine"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "secure_virtual_machine_(stackable).png",
+    "Master": "Secure Virtual Machine (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "server_(blade).png",
+    "Master": "Server (Blade)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "server_(generic).png",
+    "Master": "Server (Generic)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "server_directory_(stackable).png",
+    "Master": "Server Directory (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "server_farm.png",
+    "Master": "Server Farm"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "server_farm_(stackable).png",
+    "Master": "Server Farm (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "server_rack.png",
+    "Master": "Server Rack"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "server_rack_(stackable).png",
+    "Master": "Server Rack (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "serverblade_(stackable).png",
+    "Master": "Server/blade (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "settings.png",
+    "Master": "Settings"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "settings_(stackable).png",
+    "Master": "Settings (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "shared_folder.png",
+    "Master": "Shared Folder"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "shared_folder_(stackable).png",
+    "Master": "Shared Folder (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "smartcard.png",
+    "Master": "Smartcard"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "smartcard_(stackable).png",
+    "Master": "Smartcard (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "storage_(stackable).png",
+    "Master": "Storage (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "stored_procedure.png",
+    "Master": "Stored Procedure"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "table.png",
+    "Master": "Table"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "table_(stackable).png",
+    "Master": "Table (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "tablet.png",
+    "Master": "Tablet"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "tablet_(stackable).png",
+    "Master": "Tablet (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "tool.png",
+    "Master": "Tool"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "tool_(stackable).png",
+    "Master": "Tool (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "trigger.png",
+    "Master": "Trigger"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "udf_function.png",
+    "Master": "UDF Function"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "usb.png",
+    "Master": "USB"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "usb_(stackable).png",
+    "Master": "USB (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "user_permissions.png",
+    "Master": "User Permissions"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "web.png",
+    "Master": "Web"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "web_(stackable).png",
+    "Master": "Web (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "web_server_(stackable).png",
+    "Master": "Web Server (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "website_(generic).png",
+    "Master": "WebSite (Generic)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "windows.png",
+    "Master": "Windows"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "windows_server.png",
+    "Master": "Windows Server"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "windows_server_(stackable).png",
+    "Master": "Windows Server (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "wireless_connection.png",
+    "Master": "Wireless Connection"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "wireless_connection_(stackable).png",
+    "Master": "Wireless Connection (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "workstation_client.png",
+    "Master": "Workstation Client"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "workstation_client_(stackable).png",
+    "Master": "Workstation Client (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "xml_web_service.png",
+    "Master": "XML Web Service"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREENTERPRISE_U",
+    "Filename": "xml_web_service_(stackable).png",
+    "Master": "XML Web Service (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREGENERALSYMBOLS_U",
+    "Filename": "tunnel.png",
+    "Master": "Tunnel"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREGENERALSYMBOLS_U",
+    "Filename": "user.png",
+    "Master": "User"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREGENERALSYMBOLS_U",
+    "Filename": "tasks.png",
+    "Master": "Tasks"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREGENERALSYMBOLS_U",
+    "Filename": "gears.png",
+    "Master": "Gears"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREGENERALSYMBOLS_U",
+    "Filename": "audio.png",
+    "Master": "Audio"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREGENERALSYMBOLS_U",
+    "Filename": "video.png",
+    "Master": "Video"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREGENERALSYMBOLS_U",
+    "Filename": "attachment_(nc).png",
+    "Master": "Attachment (nc)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREGENERALSYMBOLS_U",
+    "Filename": "audio_(stackable)_181.png",
+    "Master": "Audio (Stackable).181"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREGENERALSYMBOLS_U",
+    "Filename": "bug.png",
+    "Master": "Bug"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREGENERALSYMBOLS_U",
+    "Filename": "bug_(opaque).png",
+    "Master": "Bug (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREGENERALSYMBOLS_U",
+    "Filename": "cable_settop_tv_box.png",
+    "Master": "Cable Settop TV Box"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREGENERALSYMBOLS_U",
+    "Filename": "calendar.png",
+    "Master": "Calendar"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREGENERALSYMBOLS_U",
+    "Filename": "calendar_(stackable).png",
+    "Master": "Calendar (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREGENERALSYMBOLS_U",
+    "Filename": "chart.png",
+    "Master": "Chart"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREGENERALSYMBOLS_U",
+    "Filename": "chart_(stackable).png",
+    "Master": "Chart (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREGENERALSYMBOLS_U",
+    "Filename": "checkmark__success.png",
+    "Master": "Checkmark / Success"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREGENERALSYMBOLS_U",
+    "Filename": "clock__time.png",
+    "Master": "Clock / Time"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREGENERALSYMBOLS_U",
+    "Filename": "continous_cycle_circle.png",
+    "Master": "Continous Cycle Circle"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREGENERALSYMBOLS_U",
+    "Filename": "crossout_failure.png",
+    "Master": "Crossout/ Failure"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREGENERALSYMBOLS_U",
+    "Filename": "cut_and_paste.png",
+    "Master": "Cut and Paste"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREGENERALSYMBOLS_U",
+    "Filename": "cut_and_paste_(stackable).png",
+    "Master": "Cut and Paste (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREGENERALSYMBOLS_U",
+    "Filename": "ellipses.png",
+    "Master": "Ellipses"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREGENERALSYMBOLS_U",
+    "Filename": "folder.png",
+    "Master": "Folder"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREGENERALSYMBOLS_U",
+    "Filename": "folder_(stackable).png",
+    "Master": "Folder (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREGENERALSYMBOLS_U",
+    "Filename": "game_controller.png",
+    "Master": "Game Controller"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREGENERALSYMBOLS_U",
+    "Filename": "gears_(opaque).png",
+    "Master": "Gears (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREGENERALSYMBOLS_U",
+    "Filename": "graph.png",
+    "Master": "Graph"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREGENERALSYMBOLS_U",
+    "Filename": "graph_(stackable).png",
+    "Master": "Graph (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREGENERALSYMBOLS_U",
+    "Filename": "grid_of_large_squares.png",
+    "Master": "Grid of Large Squares"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREGENERALSYMBOLS_U",
+    "Filename": "grid_of_squares.png",
+    "Master": "Grid of Squares"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREGENERALSYMBOLS_U",
+    "Filename": "like.png",
+    "Master": "Like"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREGENERALSYMBOLS_U",
+    "Filename": "like_(stackable).png",
+    "Master": "Like (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREGENERALSYMBOLS_U",
+    "Filename": "not_allowed.png",
+    "Master": "Not Allowed"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREGENERALSYMBOLS_U",
+    "Filename": "num_label_rotate_ptr.png",
+    "Master": "Num Label Rotate Ptr"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREGENERALSYMBOLS_U",
+    "Filename": "number_label.png",
+    "Master": "Number Label"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREGENERALSYMBOLS_U",
+    "Filename": "number_magenta.png",
+    "Master": "Number Magenta"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREGENERALSYMBOLS_U",
+    "Filename": "number_orange.png",
+    "Master": "Number Orange"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREGENERALSYMBOLS_U",
+    "Filename": "numbered_label.png",
+    "Master": "Numbered Label"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREGENERALSYMBOLS_U",
+    "Filename": "slider_bar,_horz.png",
+    "Master": "Slider Bar, Horz"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREGENERALSYMBOLS_U",
+    "Filename": "slider_bar,_vert.png",
+    "Master": "Slider Bar, Vert"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREGENERALSYMBOLS_U",
+    "Filename": "task_list_or_backlog.png",
+    "Master": "Task List or Backlog"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREGENERALSYMBOLS_U",
+    "Filename": "tasks_(opaque).png",
+    "Master": "Tasks (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREGENERALSYMBOLS_U",
+    "Filename": "tunnel_(stackable).png",
+    "Master": "Tunnel (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREGENERALSYMBOLS_U",
+    "Filename": "user_(opaque).png",
+    "Master": "User (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREGENERALSYMBOLS_U",
+    "Filename": "video_(stackable).png",
+    "Master": "Video (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREGENERALSYMBOLS_U",
+    "Filename": "waiting.png",
+    "Master": "Waiting"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREINTUNE_U",
+    "Filename": "apps.png",
+    "Master": "Apps"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREINTUNE_U",
+    "Filename": "groups.png",
+    "Master": "Groups"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREINTUNE_U",
+    "Filename": "policy.png",
+    "Master": "Policy"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREINTUNE_U",
+    "Filename": "protection.png",
+    "Master": "Protection"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREINTUNE_U",
+    "Filename": "account_portal.png",
+    "Master": "Account Portal"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREINTUNE_U",
+    "Filename": "administration.png",
+    "Master": "Administration"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREINTUNE_U",
+    "Filename": "alerts.png",
+    "Master": "Alerts"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREINTUNE_U",
+    "Filename": "certificate_compliance.png",
+    "Master": "Certificate Compliance"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREINTUNE_U",
+    "Filename": "client_software_deployment_wizard.png",
+    "Master": "Client Software Deployment Wizard"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREINTUNE_U",
+    "Filename": "company_portal.png",
+    "Master": "Company Portal"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREINTUNE_U",
+    "Filename": "computer_inventory.png",
+    "Master": "Computer Inventory"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREINTUNE_U",
+    "Filename": "conditional_access_exchange.png",
+    "Master": "Conditional Access_Exchange"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREINTUNE_U",
+    "Filename": "connector.png",
+    "Master": "Connector"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREINTUNE_U",
+    "Filename": "dashboard.png",
+    "Master": "Dashboard"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREINTUNE_U",
+    "Filename": "data_migration_wizard.png",
+    "Master": "Data Migration Wizard"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREINTUNE_U",
+    "Filename": "detected_software.png",
+    "Master": "Detected Software"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREINTUNE_U",
+    "Filename": "device_group.png",
+    "Master": "Device Group"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREINTUNE_U",
+    "Filename": "device_health.png",
+    "Master": "Device Health"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREINTUNE_U",
+    "Filename": "device_history.png",
+    "Master": "Device History"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREINTUNE_U",
+    "Filename": "device_os.png",
+    "Master": "Device OS"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREINTUNE_U",
+    "Filename": "end_protection.png",
+    "Master": "End Protection"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREINTUNE_U",
+    "Filename": "exchange_connector.png",
+    "Master": "Exchange Connector"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREINTUNE_U",
+    "Filename": "expandable_cloud.png",
+    "Master": "Expandable Cloud"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREINTUNE_U",
+    "Filename": "hybrid_mdm.png",
+    "Master": "Hybrid MDM"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREINTUNE_U",
+    "Filename": "intune_account_portal.png",
+    "Master": "Intune Account Portal"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREINTUNE_U",
+    "Filename": "intune_certificate_profiles.png",
+    "Master": "Intune Certificate Profiles"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREINTUNE_U",
+    "Filename": "intune_email_profiles.png",
+    "Master": "Intune Email Profiles"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREINTUNE_U",
+    "Filename": "intune_managed_app.png",
+    "Master": "Intune Managed App"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREINTUNE_U",
+    "Filename": "intune_mobile_application_management.png",
+    "Master": "Intune Mobile Application Management"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREINTUNE_U",
+    "Filename": "intune_vpn_profiles.png",
+    "Master": "Intune VPN Profiles"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREINTUNE_U",
+    "Filename": "intune_wi-fi_profiles.png",
+    "Master": "Intune Wi-Fi Profiles"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREINTUNE_U",
+    "Filename": "inventory_license.png",
+    "Master": "Inventory License"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREINTUNE_U",
+    "Filename": "inventory_software.png",
+    "Master": "Inventory Software"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREINTUNE_U",
+    "Filename": "license_group.png",
+    "Master": "License Group"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREINTUNE_U",
+    "Filename": "license_installation.png",
+    "Master": "License Installation"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREINTUNE_U",
+    "Filename": "microsoft_intune.png",
+    "Master": "Microsoft Intune"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREINTUNE_U",
+    "Filename": "mobile_inventory.png",
+    "Master": "Mobile Inventory"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREINTUNE_U",
+    "Filename": "noncompliant_apps.png",
+    "Master": "Noncompliant Apps"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREINTUNE_U",
+    "Filename": "reports.png",
+    "Master": "Reports"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREINTUNE_U",
+    "Filename": "settings.png",
+    "Master": "Settings"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREINTUNE_U",
+    "Filename": "subscription_portal.png",
+    "Master": "Subscription Portal"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREINTUNE_U",
+    "Filename": "update.png",
+    "Master": "Update"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREINTUNE_U",
+    "Filename": "user_group.png",
+    "Master": "User Group"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREINTUNE_U",
+    "Filename": "user_management.png",
+    "Master": "User Management"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREINTUNE_U",
+    "Filename": "terms_and_conditions.png",
+    "Master": "Terms and Conditions"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREOMS_U",
+    "Filename": "alerts.png",
+    "Master": "Alerts"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREOMS_U",
+    "Filename": "jobs.png",
+    "Master": "Jobs"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREOMS_U",
+    "Filename": "security.png",
+    "Master": "Security"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREOMS_U",
+    "Filename": "services.png",
+    "Master": "Services"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREOMS_U",
+    "Filename": "app_wchanges.png",
+    "Master": "App W/changes"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREOMS_U",
+    "Filename": "assessments.png",
+    "Master": "Assessments"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREOMS_U",
+    "Filename": "capacity.png",
+    "Master": "Capacity"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREOMS_U",
+    "Filename": "config_assessment.png",
+    "Master": "Config Assessment"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREOMS_U",
+    "Filename": "dashboard.png",
+    "Master": "Dashboard"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREOMS_U",
+    "Filename": "dependency_monitor.png",
+    "Master": "Dependency Monitor"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREOMS_U",
+    "Filename": "diagnostics.png",
+    "Master": "Diagnostics"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREOMS_U",
+    "Filename": "log_management.png",
+    "Master": "Log Management"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREOMS_U",
+    "Filename": "log_search.png",
+    "Master": "Log Search"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREOMS_U",
+    "Filename": "malware_assessment.png",
+    "Master": "Malware Assessment"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREOMS_U",
+    "Filename": "overview.png",
+    "Master": "Overview"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREOMS_U",
+    "Filename": "runbooks.png",
+    "Master": "Runbooks"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREOMS_U",
+    "Filename": "server_wchanges.png",
+    "Master": "Server W/changes"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREOMS_U",
+    "Filename": "solutions.png",
+    "Master": "Solutions"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREOMS_U",
+    "Filename": "system_update.png",
+    "Master": "System Update"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREOMS_U",
+    "Filename": "track_changes.png",
+    "Master": "Track Changes"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREOMS_U",
+    "Filename": "wire_data.png",
+    "Master": "Wire Data"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREOPERATIONSMANAGER_U",
+    "Filename": "operations_manager.png",
+    "Master": "Operations Manager"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREOPERATIONSMANAGER_U",
+    "Filename": "plug_and_play.png",
+    "Master": "Plug and Play"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREOPERATIONSMANAGER_U",
+    "Filename": "runtime.png",
+    "Master": "Runtime"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREOPERATIONSMANAGER_U",
+    "Filename": "orchestrator.png",
+    "Master": "Orchestrator"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREOPERATIONSMANAGER_U",
+    "Filename": "advanced_group_policy_management.png",
+    "Master": "Advanced Group Policy Management"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREOPERATIONSMANAGER_U",
+    "Filename": "app_controller.png",
+    "Master": "App Controller"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREOPERATIONSMANAGER_U",
+    "Filename": "application_virtualization.png",
+    "Master": "Application Virtualization"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREOPERATIONSMANAGER_U",
+    "Filename": "applications.png",
+    "Master": "Applications"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREOPERATIONSMANAGER_U",
+    "Filename": "azure_pack.png",
+    "Master": "Azure Pack"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREOPERATIONSMANAGER_U",
+    "Filename": "configuration_manager.png",
+    "Master": "Configuration Manager"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREOPERATIONSMANAGER_U",
+    "Filename": "data_protection_manager.png",
+    "Master": "Data Protection Manager"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREOPERATIONSMANAGER_U",
+    "Filename": "microsoft_enterprise_desktop_virtualization.png",
+    "Master": "Microsoft Enterprise Desktop Virtualization"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREOPERATIONSMANAGER_U",
+    "Filename": "microsoft_user_experience_virtualization.png",
+    "Master": "Microsoft User Experience Virtualization"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREOPERATIONSMANAGER_U",
+    "Filename": "middleware.png",
+    "Master": "Middleware"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREOPERATIONSMANAGER_U",
+    "Filename": "plug_and_play_(stackable).png",
+    "Master": "Plug and Play (Stackable)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREOPERATIONSMANAGER_U",
+    "Filename": "service_manager.png",
+    "Master": "Service Manager"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREOPERATIONSMANAGER_U",
+    "Filename": "slider_bar,_horizontal.png",
+    "Master": "Slider Bar, Horizontal"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREOPERATIONSMANAGER_U",
+    "Filename": "slider_bar,_vertical.png",
+    "Master": "Slider Bar, Vertical"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREOPERATIONSMANAGER_U",
+    "Filename": "ssd.png",
+    "Master": "SSD"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREOPERATIONSMANAGER_U",
+    "Filename": "virtual_machine_manager_(vmm).png",
+    "Master": "Virtual Machine Manager (VMM)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREOPERATIONSMANAGER_U",
+    "Filename": "microsoft_bitlocker_administration_and_management.png",
+    "Master": "Microsoft Bitlocker Administration and Management"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREOPERATIONSMANAGER_U",
+    "Filename": "microsoft_diagnostics_and_recovery_toolset.png",
+    "Master": "Microsoft Diagnostics and Recovery Toolset"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREOTHERMICROSOFTPRODUCTS_U",
+    "Filename": "excel.png",
+    "Master": "Excel"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREOTHERMICROSOFTPRODUCTS_U",
+    "Filename": "sharepoint.png",
+    "Master": "SharePoint"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREOTHERMICROSOFTPRODUCTS_U",
+    "Filename": "word.png",
+    "Master": "Word"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREOTHERMICROSOFTPRODUCTS_U",
+    "Filename": "windows.png",
+    "Master": "Windows"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREOTHERMICROSOFTPRODUCTS_U",
+    "Filename": "access.png",
+    "Master": "Access"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREOTHERMICROSOFTPRODUCTS_U",
+    "Filename": "exchange.png",
+    "Master": "Exchange"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREOTHERMICROSOFTPRODUCTS_U",
+    "Filename": "access_(opaque).png",
+    "Master": "Access (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREOTHERMICROSOFTPRODUCTS_U",
+    "Filename": "cortana.png",
+    "Master": "Cortana"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREOTHERMICROSOFTPRODUCTS_U",
+    "Filename": "excel_(opaque).png",
+    "Master": "Excel (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREOTHERMICROSOFTPRODUCTS_U",
+    "Filename": "exchange_(opaque).png",
+    "Master": "Exchange (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREOTHERMICROSOFTPRODUCTS_U",
+    "Filename": "lync.png",
+    "Master": "Lync"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREOTHERMICROSOFTPRODUCTS_U",
+    "Filename": "lync_(opaque).png",
+    "Master": "Lync (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREOTHERMICROSOFTPRODUCTS_U",
+    "Filename": "microsoft.png",
+    "Master": "Microsoft"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREOTHERMICROSOFTPRODUCTS_U",
+    "Filename": "outlook.png",
+    "Master": "Outlook"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREOTHERMICROSOFTPRODUCTS_U",
+    "Filename": "outlook_(opaque).png",
+    "Master": "Outlook (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREOTHERMICROSOFTPRODUCTS_U",
+    "Filename": "powerapps.png",
+    "Master": "PowerApps"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREOTHERMICROSOFTPRODUCTS_U",
+    "Filename": "powerpoint.png",
+    "Master": "PowerPoint"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREOTHERMICROSOFTPRODUCTS_U",
+    "Filename": "powerpoint_(opaque).png",
+    "Master": "PowerPoint (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREOTHERMICROSOFTPRODUCTS_U",
+    "Filename": "sharepoint_(opaque).png",
+    "Master": "SharePoint (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREOTHERMICROSOFTPRODUCTS_U",
+    "Filename": "skype.png",
+    "Master": "Skype"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREOTHERMICROSOFTPRODUCTS_U",
+    "Filename": "visio.png",
+    "Master": "Visio"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREOTHERMICROSOFTPRODUCTS_U",
+    "Filename": "visio_(opaque).png",
+    "Master": "Visio (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREOTHERMICROSOFTPRODUCTS_U",
+    "Filename": "word_(opaque).png",
+    "Master": "Word (Opaque)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREOTHERMICROSOFTPRODUCTS_U",
+    "Filename": "xbox.png",
+    "Master": "Xbox"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREOTHERMICROSOFTPRODUCTS_U",
+    "Filename": "xbox_one.png",
+    "Master": "XBox One"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURESYSTEMCENTER_U",
+    "Filename": "central_administration_site.png",
+    "Master": "Central Administration Site"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURESYSTEMCENTER_U",
+    "Filename": "cloud_distribution_point.png",
+    "Master": "Cloud Distribution Point"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURESYSTEMCENTER_U",
+    "Filename": "primary_site.png",
+    "Master": "Primary Site"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURESYSTEMCENTER_U",
+    "Filename": "software_update_point.png",
+    "Master": "Software Update Point"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURESYSTEMCENTER_U",
+    "Filename": "central_administration_site_sql.png",
+    "Master": "Central Administration Site_SQL"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURESYSTEMCENTER_U",
+    "Filename": "distribution_point.png",
+    "Master": "Distribution Point"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURESYSTEMCENTER_U",
+    "Filename": "management_point.png",
+    "Master": "Management Point"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURESYSTEMCENTER_U",
+    "Filename": "roles_(class_for_multiple_versions).png",
+    "Master": "Roles (Class For Multiple Versions)"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURESYSTEMCENTER_U",
+    "Filename": "secondary_site.png",
+    "Master": "Secondary Site"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZURESYSTEMCENTER_U",
+    "Filename": "system_center_admin_console.png",
+    "Master": "System Center Admin Console"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREVMSBYFUNCTION_U",
+    "Filename": "active_directory_vm.png",
+    "Master": "Active Directory VM"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREVMSBYFUNCTION_U",
+    "Filename": "web_server_vm.png",
+    "Master": "Web Server VM"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREVMSBYFUNCTION_U",
+    "Filename": "file_server_vm.png",
+    "Master": "File Server VM"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREVMSBYFUNCTION_U",
+    "Filename": "database_server_vm.png",
+    "Master": "Database Server VM"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREVMSBYFUNCTION_U",
+    "Filename": "active_directory_vm_multi.png",
+    "Master": "Active Directory VM Multi"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREVMSBYFUNCTION_U",
+    "Filename": "application_server_vm.png",
+    "Master": "Application Server VM"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREVMSBYFUNCTION_U",
+    "Filename": "application_server_vm_multi.png",
+    "Master": "Application Server VM Multi"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREVMSBYFUNCTION_U",
+    "Filename": "database_server_vm_multi.png",
+    "Master": "Database Server VM Multi"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREVMSBYFUNCTION_U",
+    "Filename": "directory_server_vm.png",
+    "Master": "Directory Server VM"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREVMSBYFUNCTION_U",
+    "Filename": "directory_server_vm_multi.png",
+    "Master": "Directory Server VM Multi"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREVMSBYFUNCTION_U",
+    "Filename": "domain_server_vm.png",
+    "Master": "Domain Server VM"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREVMSBYFUNCTION_U",
+    "Filename": "domain_server_vm_multi.png",
+    "Master": "Domain Server VM Multi"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREVMSBYFUNCTION_U",
+    "Filename": "file_server.png",
+    "Master": "File Server"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREVMSBYFUNCTION_U",
+    "Filename": "file_server_vm_multi.png",
+    "Master": "File Server VM Multi"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREVMSBYFUNCTION_U",
+    "Filename": "web_server_vm_multi.png",
+    "Master": "Web Server VM Multi"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREVMSBYFUNCTION_U",
+    "Filename": "windows_server_vm.png",
+    "Master": "Windows Server VM"
+  },
+  {
+    "SetName": "Azure",
+    "Folder": "C:\\Program Files\\Microsoft Office\\Root\\Office16\\visio content\\1033",
+    "Stencil": "AZUREVMSBYFUNCTION_U",
+    "Filename": "windows_server_vm_multi.png",
+    "Master": "Windows Server VM Multi"
+  }
+]
