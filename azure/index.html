@@ -1,4 +1,4 @@
-+<!doctype html>
+<!doctype html>
 <html lang="en">
   
   <!--  TODO: add a filter box to narrow it down -->
@@ -7,33 +7,68 @@
   
 	<meta charset="utf-8">
 
-	<title>Azure Icons</title>
+	<title>AWS Icons</title>
 	<meta name="description" content="Amazon AWS Icons, exported from Visio shapes, January 2020.">
 	<meta name="VisioGuy" content="SitePoint">
       
   <style>
 
-    body { font-family: sans-serif; }
-    h2 { font-size: medium; }
-    #search { background: darkred;
-              color: white;
-              padding: 10px; }
+    @import url('https://fonts.googleapis.com/css?family=Roboto|Roboto+Condensed|Roboto+Mono');
 
+    body { font-family: Roboto, sans-serif; }
+
+    h2 { font-size: medium;}
+
+    .filter { 
+      position: fixed;
+      width: 100%;
+      top: 0;
+      background:slategrey;
+      color: white;
+      padding: 10px 10px 10px 10px; 
+      font-size: 0.8em;
+      }
+
+    .heading {      
+      margin-top: 2.5em;
+      background: whitesmoke;
+      padding: 5px;
+      line-height: 0.5em;  
+    }
+
+    input {
+      background: whitesmoke;
+      box-shadow: none; /* no red border in ff */
+    }
+
+
+    
+    .info {
+      font-size: 0.9em;      
+    }
 
     /* Div Topography: #icons > .icon-group > .icons > .icon > .icon-label  */
 
+    .icon-groups {
+      margin: 0px 30px 10px 0px; /* t l r b */
+    }
+    /* .icon-group { } */
     .icons {
       display: flex;
       flex-direction: row;
       flex-wrap: wrap;
-      align-items: flex-start;
-
+      align-items: flex-start;     
+      font-size: 0.9em;
     }
 
     .icon {
-      flex: 0 0 6em; /* Shorthand for: flex-grow, flex-shrink, flex-basis */
-      align-content: center;
+      flex: 0 0 6em;
+      /* align-content: center; */
       text-align: center;
+      /* flex: 0 0 6em;  */
+      /* Shorthand for: flex-grow, flex-shrink, flex-basis */
+      /* align-content: center;
+      text-align: center; */
     }
 
     .icon.hide {
@@ -46,6 +81,11 @@
       margin: 5 5 10 5;
     }
 
+    #btnClearSearch {
+      width: 25px;
+      padding: 0;
+    }
+
   </style>
 	
   <!-- <script src="https://d3js.org/d3.v5.min.js"></script> -->
@@ -54,27 +94,38 @@
   </head>
   
   <body>
- 
-    <div id="search" >
-      <label for="filter-text">Filter:</label> <!-- for should match id, not name -->
+     
+    <div class="filter" >
+      <label for="filter-text">Filter:&nbsp;&nbsp;</label> <!-- for should match id, not name -->
       <input id="filter-text"
-             type="text"  name="name" required
-             minlength="0" maxlength="10" size="10">  
+            type="text"  name="name" required
+            minlength="0" maxlength="10" size="10"
+            title="Enter search text to filter icon listing">  
       <button id="btnClearSearch" title="Clear search" >✕</button>
-      <span> Results:</span>
+      <span>&nbsp;&nbsp;Results:</span>
       <span id="filter-count"></span>
     </div>
-    
-    <h1>
-      Azure Icons
-    </h1>
-    
-    <div id="icons">
+
+    <div class="heading">
+
+      <h1 id="set-name">Set Name</h1>      
+      <div class="info">
+        <p>&nbsp;</p>
+        <p><span id="description"></span></p>
+        <p><span>Download stencils: </span><a id="download-link" href="" target="_blank"></a></p>
+        <p><span></span>Last updated: <span id="last-updated"></span></p>
+      </div>
+
+    </div>
+
+    <div id="icons" class="icon-groups">
       <!-- js fills in the stencils and masters here -->
     </div>
     
   <script>
     
+    let _totalIconCt = 0;
+
     // Set up the events for the search form:
     
     // Clear the filter text:
@@ -130,15 +181,24 @@
     }
     
     function updateResultsCount(ct) {
-      console.log(ct);
       if(ct < 0) {
         ct = d3.selectAll(".icon-label").size();
       }
-      d3.select("#filter-count").text(ct);
+      d3.select("#filter-count").text(`${ct} / ${_totalIconCt}`);
     }
       
     let divPar = d3.select("#icons");
         
+    d3.json("set-info.json").then(
+      function(data) {
+        d3.selectAll("#set-name").text(data.SetName);
+        d3.selectAll("#description").text(data.Description);
+        d3.selectAll("#download-link").attr("href", data.DownloadLocation);
+        d3.selectAll("#download-link").text(data.DownloadLocation);
+        d3.selectAll("#last-updated").text(data.LastUpdate);
+      }
+    );
+
     d3.json("icon-data.json").then(
       function(data) {        
 				
@@ -150,7 +210,7 @@
           .sortValues((a,b) => a.Master.localeCompare(b.Master) )
           .entries(data);
                 
-        let ct = 0;
+        _totalIconCt = 0;
         
         divPar.selectAll("div")
           .data(itemsByMaster)
@@ -173,7 +233,7 @@
             .enter()
             .each((d, i) => {
 
-              ct++;
+              _totalIconCt++;
 
               let divIcn = divIcns.append("div")
                 .classed("icon", true);
@@ -192,6 +252,8 @@
           }) //...divIcns.selectAll...
               
         }) //...divPar.selectAll...
+
+        updateResultsCount(_totalIconCt);
 
       }
     );
