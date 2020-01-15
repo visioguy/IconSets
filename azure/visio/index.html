@@ -1,0 +1,266 @@
+<!doctype html>
+<html lang="en">
+  
+  <!--  TODO: add a filter box to narrow it down -->
+
+  <head>
+  
+	<meta charset="utf-8">
+
+	<title>AWS Icons</title>
+	<meta name="description" content="Amazon AWS Icons, exported from Visio shapes, January 2020.">
+	<meta name="VisioGuy" content="SitePoint">
+      
+  <style>
+
+    @import url('https://fonts.googleapis.com/css?family=Roboto|Roboto+Condensed|Roboto+Mono');
+
+    body { font-family: Roboto, sans-serif; }
+
+    h2 { font-size: medium;}
+
+    .filter { 
+      position: fixed;
+      width: 100%;
+      top: 0;
+      background:slategrey;
+      color: white;
+      padding: 10px 10px 10px 10px; 
+      font-size: 0.8em;
+      }
+
+    .heading {      
+      margin-top: 2.5em;
+      background: whitesmoke;
+      padding: 5px;
+      line-height: 0.5em;  
+    }
+
+    input {
+      background: whitesmoke;
+      box-shadow: none; /* no red border in ff */
+    }
+
+
+    
+    .info {
+      font-size: 0.9em;      
+    }
+
+    /* Div Topography: #icons > .icon-group > .icons > .icon > .icon-label  */
+
+    .icon-groups {
+      margin: 0px 30px 10px 0px; /* t l r b */
+    }
+    /* .icon-group { } */
+    .icons {
+      display: flex;
+      flex-direction: row;
+      flex-wrap: wrap;
+      align-items: flex-start;     
+      font-size: 0.9em;
+    }
+
+    .icon {
+      flex: 0 0 6em;
+      /* align-content: center; */
+      text-align: center;
+      /* flex: 0 0 6em;  */
+      /* Shorthand for: flex-grow, flex-shrink, flex-basis */
+      /* align-content: center;
+      text-align: center; */
+    }
+
+    .icon.hide {
+      display: none;
+    }
+
+    .icon-label {
+      font-size: smaller;
+      text-align: center;
+      margin: 5 5 10 5;
+    }
+
+    #btnClearSearch {
+      width: 25px;
+      padding: 0;
+    }
+
+  </style>
+	
+  <!-- <script src="https://d3js.org/d3.v5.min.js"></script> -->
+	<script src="script/d3.v5.min.js"></script> 
+	
+  </head>
+  
+  <body>
+     
+    <div class="filter" >
+      <label for="filter-text">Filter:&nbsp;&nbsp;</label> <!-- for should match id, not name -->
+      <input id="filter-text"
+            type="text"  name="name" required
+            minlength="0" maxlength="10" size="10"
+            title="Enter search text to filter icon listing">  
+      <button id="btnClearSearch" title="Clear search" >✕</button>
+      <span>&nbsp;&nbsp;Results:</span>
+      <span id="filter-count"></span>
+    </div>
+
+    <div class="heading">
+
+      <h1 id="set-name">Set Name</h1>      
+      <div class="info">
+        <p>&nbsp;</p>
+        <p><span id="description"></span></p>
+        <p><span>Download stencils: </span><a id="download-link" href="" target="_blank"></a></p>
+        <p><span></span>Last updated: <span id="last-updated"></span></p>
+      </div>
+
+    </div>
+
+    <div id="icons" class="icon-groups">
+      <!-- js fills in the stencils and masters here -->
+    </div>
+    
+  <script>
+    
+    let _totalIconCt = 0;
+
+    // Set up the events for the search form:
+    
+    // Clear the filter text:
+    d3.selectAll("#btnClearSearch").on("click", () => {      
+      d3.select("#filter-text").node().value = "";
+      updateSearch();
+    });
+    
+    // React to changes in the filter text:
+    d3.selectAll("#filter-text").on("input", () => {      
+      updateSearch();      
+    });
+    
+    function updateSearch() {
+      
+      let val = d3.select("#filter-text").node().value.trim().toLowerCase();
+      
+      let ct = -1;
+      let found = true;
+      
+      let dlbls = d3.selectAll(".icon-label");
+      
+      if(val.length > 0) {
+        
+        ct = 0;
+        
+        dlbls.each( function() {
+
+          let dpar = d3.select(this.parentNode);
+
+          // Analyze non-trivial search strings:
+          let d = d3.select(this);
+          let t = d.text().trim().toLowerCase();
+
+          // Calculate found:
+          found = t.includes(val);
+
+          if(found) ct++;
+
+          // Show/hide the parent div according to the found flag:
+          dpar.classed("hide", ! found);
+
+        });
+
+      } else {
+        
+        // Unhide everything:
+        d3.selectAll(".icon").classed("hide", false);
+      }
+      
+      updateResultsCount(ct);
+      
+    }
+    
+    function updateResultsCount(ct) {
+      if(ct < 0) {
+        ct = d3.selectAll(".icon-label").size();
+      }
+      d3.select("#filter-count").text(`${ct} / ${_totalIconCt}`);
+    }
+      
+    let divPar = d3.select("#icons");
+        
+    d3.json("set-info.json").then(
+      function(data) {
+        d3.selectAll("#set-name").text(data.SetName);
+        d3.selectAll("#description").text(data.Description);
+        d3.selectAll("#download-link").attr("href", data.DownloadLocation);
+        d3.selectAll("#download-link").text(data.DownloadLocation);
+        d3.selectAll("#last-updated").text(data.LastUpdate);
+      }
+    );
+
+    d3.json("icon-data.json").then(
+      function(data) {        
+				
+        // Group all of the data items by stencil name,
+        // sorting by stencil name, then by master name:
+        var itemsByMaster = d3.nest()
+          .key( (d) =>  d.Stencil )
+          .sortKeys(d3.ascending)    
+          .sortValues((a,b) => a.Master.localeCompare(b.Master) )
+          .entries(data);
+                
+        _totalIconCt = 0;
+        
+        divPar.selectAll("div")
+          .data(itemsByMaster)
+          .enter()
+          .each((d, i) => {
+          
+          // Add a div for the stencil, and give it a
+          // heading the shows the name of the stencil:
+          let divStn = divPar.append("div")
+                             .classed("icon-group", true);
+          divStn.append("h2").text(() => d.key);
+
+          // Create a container to hold each icon + icon data:
+          let divIcns = divStn.append("div")
+                              .classed("icons", true)
+          
+          // Now add divs for the master icons:
+          divIcns.selectAll("div")
+            .data(d.values)
+            .enter()
+            .each((d, i) => {
+
+              _totalIconCt++;
+
+              let divIcn = divIcns.append("div")
+                .classed("icon", true);
+
+              divIcn.append("img")
+                .attr("src", `icons/${d.Filename}`)
+                //.attr("width", 40)
+                ;
+              let dpr = divIcn.append("p")
+                          .classed("icon-label", true);
+            
+              dpr.append("span")
+                  .text(() => `${d.Master}` )            
+                ;
+
+          }) //...divIcns.selectAll...
+              
+        }) //...divPar.selectAll...
+
+        updateResultsCount(_totalIconCt);
+
+      }
+    );
+    
+      
+  </script>
+  
+  </body>
+  
+</html>
