@@ -1,0 +1,3299 @@
+[
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Analytics",
+    "Filename": "analytics.png",
+    "Master": "Analytics"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Analytics",
+    "Filename": "amazon_athena.png",
+    "Master": "Amazon Athena"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Analytics",
+    "Filename": "search_documents.png",
+    "Master": "Search documents"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Analytics",
+    "Filename": "amazon_cloudsearch.png",
+    "Master": "Amazon CloudSearch"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Analytics",
+    "Filename": "amazon_elasticsearch_service.png",
+    "Master": "Amazon Elasticsearch Service"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Analytics",
+    "Filename": "amazon_emr.png",
+    "Master": "Amazon EMR"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Analytics",
+    "Filename": "cluster.png",
+    "Master": "Cluster"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Analytics",
+    "Filename": "hdfs_cluster.png",
+    "Master": "HDFS cluster"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Analytics",
+    "Filename": "emr_engine.png",
+    "Master": "EMR engine"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Analytics",
+    "Filename": "emr_engine_mapr_m3.png",
+    "Master": "EMR engine MapR M3"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Analytics",
+    "Filename": "emr_engine_mapr_m5.png",
+    "Master": "EMR engine MapR M5"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Analytics",
+    "Filename": "emr_engine_mapr_m7.png",
+    "Master": "EMR engine MapR M7"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Analytics",
+    "Filename": "amazon_kinesis.png",
+    "Master": "Amazon Kinesis"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Analytics",
+    "Filename": "amazon_kinesis_data_streams.png",
+    "Master": "Amazon Kinesis Data Streams"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Analytics",
+    "Filename": "amazon_kinesis_firehose.png",
+    "Master": "Amazon Kinesis Firehose"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Analytics",
+    "Filename": "amazon_kinesis_data_analytics.png",
+    "Master": "Amazon Kinesis Data Analytics"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Analytics",
+    "Filename": "amazon_kinesis_video_streams.png",
+    "Master": "Amazon Kinesis Video Streams"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Analytics",
+    "Filename": "amazon_managed_streaming_for_kafka.png",
+    "Master": "Amazon Managed Streaming for Kafka"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Analytics",
+    "Filename": "amazon_quicksight.png",
+    "Master": "Amazon QuickSight"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Analytics",
+    "Filename": "amazon_redshift.png",
+    "Master": "Amazon Redshift"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Analytics",
+    "Filename": "dense_storage_node.png",
+    "Master": "Dense storage node"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Analytics",
+    "Filename": "dense_compute_node.png",
+    "Master": "Dense compute node"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Analytics",
+    "Filename": "aws_data_pipeline.png",
+    "Master": "AWS Data Pipeline"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Analytics",
+    "Filename": "aws_glue.png",
+    "Master": "AWS Glue"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Analytics",
+    "Filename": "data_catalog.png",
+    "Master": "Data catalog"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Analytics",
+    "Filename": "crawlers.png",
+    "Master": "Crawlers"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Analytics",
+    "Filename": "aws_lake_formation.png",
+    "Master": "AWS Lake Formation"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Analytics",
+    "Filename": "data_lake.png",
+    "Master": "Data lake"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Application Integration",
+    "Filename": "application_integration.png",
+    "Master": "Application Integration"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Application Integration",
+    "Filename": "amazon_mq.png",
+    "Master": "Amazon MQ"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Application Integration",
+    "Filename": "amazon_simple_notification_service_(sns).png",
+    "Master": "Amazon Simple Notification Service (SNS)"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Application Integration",
+    "Filename": "email_notification.png",
+    "Master": "Email notification"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Application Integration",
+    "Filename": "http_notification.png",
+    "Master": "HTTP notification"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Application Integration",
+    "Filename": "topic.png",
+    "Master": "Topic"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Application Integration",
+    "Filename": "amazon_simple_queue_service_(sqs).png",
+    "Master": "Amazon Simple Queue Service (SQS)"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Application Integration",
+    "Filename": "message.png",
+    "Master": "Message"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Application Integration",
+    "Filename": "queue.png",
+    "Master": "Queue"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Application Integration",
+    "Filename": "aws_appsync.png",
+    "Master": "AWS AppSync"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Application Integration",
+    "Filename": "aws_step_functions.png",
+    "Master": "AWS Step Functions"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Application Integration",
+    "Filename": "amazon_eventbridge.png",
+    "Master": "Amazon EventBridge"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "AR & VR",
+    "Filename": "ar_&_vr.png",
+    "Master": "AR & VR"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "AR & VR",
+    "Filename": "amazon_sumerian.png",
+    "Master": "Amazon Sumerian"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "AWS Cost Management",
+    "Filename": "aws_cost_management.png",
+    "Master": "AWS Cost Management"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "AWS Cost Management",
+    "Filename": "aws_budgets.png",
+    "Master": "AWS Budgets"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "AWS Cost Management",
+    "Filename": "aws_cost_and_usage_report.png",
+    "Master": "AWS Cost and Usage Report"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "AWS Cost Management",
+    "Filename": "aws_cost_explorer.png",
+    "Master": "AWS Cost Explorer"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "AWS Cost Management",
+    "Filename": "reserved_instance_reporting.png",
+    "Master": "Reserved Instance Reporting"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "AWS General",
+    "Filename": "aws_marketplace.png",
+    "Master": "AWS Marketplace"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "AWS General",
+    "Filename": "aws_cloud.png",
+    "Master": "AWS Cloud"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "AWS General",
+    "Filename": "client.png",
+    "Master": "Client"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "AWS General",
+    "Filename": "corporate_data_center.png",
+    "Master": "Corporate data center"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "AWS General",
+    "Filename": "disk.png",
+    "Master": "Disk"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "AWS General",
+    "Filename": "forums.png",
+    "Master": "Forums"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "AWS General",
+    "Filename": "generic_database.png",
+    "Master": "Generic database"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "AWS General",
+    "Filename": "internet.png",
+    "Master": "Internet"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "AWS General",
+    "Filename": "internet_alt1.png",
+    "Master": "Internet alt1"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "AWS General",
+    "Filename": "internet_alt2.png",
+    "Master": "Internet alt2"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "AWS General",
+    "Filename": "multimedia.png",
+    "Master": "Multimedia"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "AWS General",
+    "Filename": "mobile_client.png",
+    "Master": "Mobile client"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "AWS General",
+    "Filename": "office_building.png",
+    "Master": "Office building"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "AWS General",
+    "Filename": "saml_token.png",
+    "Master": "SAML token"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "AWS General",
+    "Filename": "ssl_padlock.png",
+    "Master": "SSL padlock"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "AWS General",
+    "Filename": "external_sdk.png",
+    "Master": "External SDK"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "AWS General",
+    "Filename": "sdk.png",
+    "Master": "SDK"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "AWS General",
+    "Filename": "tape_storage.png",
+    "Master": "Tape storage"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "AWS General",
+    "Filename": "external_toolkit.png",
+    "Master": "External toolkit"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "AWS General",
+    "Filename": "toolkit.png",
+    "Master": "Toolkit"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "AWS General",
+    "Filename": "traditional_server.png",
+    "Master": "Traditional server"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "AWS General",
+    "Filename": "user.png",
+    "Master": "User"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "AWS General",
+    "Filename": "users.png",
+    "Master": "Users"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Blockchain",
+    "Filename": "blockchain.png",
+    "Master": "Blockchain"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Blockchain",
+    "Filename": "amazon_managed_blockchain.png",
+    "Master": "Amazon Managed Blockchain"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Blockchain",
+    "Filename": "amazon_quantum_ledger_database_(qldb).png",
+    "Master": "Amazon Quantum Ledger Database (QLDB)"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Business Applications",
+    "Filename": "business_applications.png",
+    "Master": "Business Applications"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Business Applications",
+    "Filename": "alexa_for_business.png",
+    "Master": "Alexa for Business"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Business Applications",
+    "Filename": "amazon_chime.png",
+    "Master": "Amazon Chime"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Business Applications",
+    "Filename": "amazon_workdocs.png",
+    "Master": "Amazon WorkDocs"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Business Applications",
+    "Filename": "amazon_workmail.png",
+    "Master": "Amazon WorkMail"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Compute",
+    "Filename": "aws_thinkbox_deadline.png",
+    "Master": "AWS Thinkbox Deadline"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Compute",
+    "Filename": "aws_thinkbox_draft.png",
+    "Master": "AWS Thinkbox Draft"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Compute",
+    "Filename": "aws_thinkbox_frost.png",
+    "Master": "AWS Thinkbox Frost"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Compute",
+    "Filename": "aws_thinkbox_krakatoa.png",
+    "Master": "AWS Thinkbox Krakatoa"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Compute",
+    "Filename": "aws_thinkbox_sequoia.png",
+    "Master": "AWS Thinkbox Sequoia"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Compute",
+    "Filename": "aws_thinkbox_stoke.png",
+    "Master": "AWS Thinkbox Stoke"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Compute",
+    "Filename": "aws_thinkbox_xmesh.png",
+    "Master": "AWS Thinkbox XMesh"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Compute",
+    "Filename": "compute.png",
+    "Master": "Compute"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Compute",
+    "Filename": "amazon_ec2.png",
+    "Master": "Amazon EC2"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Compute",
+    "Filename": "rescue.png",
+    "Master": "Rescue"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Compute",
+    "Filename": "ami.png",
+    "Master": "AMI"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Compute",
+    "Filename": "auto_scaling.png",
+    "Master": "Auto Scaling"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Compute",
+    "Filename": "elastic_ip_address.png",
+    "Master": "Elastic IP Address"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Compute",
+    "Filename": "amazon_ec2_auto_scaling.png",
+    "Master": "Amazon EC2 Auto Scaling"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Compute",
+    "Filename": "amazon_elastic_container_services.png",
+    "Master": "Amazon Elastic Container Services"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Compute",
+    "Filename": "container_1.png",
+    "Master": "Container 1"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Compute",
+    "Filename": "container_2.png",
+    "Master": "Container 2"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Compute",
+    "Filename": "container_3.png",
+    "Master": "Container 3"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Compute",
+    "Filename": "task.png",
+    "Master": "Task"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Compute",
+    "Filename": "service.png",
+    "Master": "Service"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Compute",
+    "Filename": "amazon_ec2_container_registry.png",
+    "Master": "Amazon EC2 Container Registry"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Compute",
+    "Filename": "registry.png",
+    "Master": "Registry"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Compute",
+    "Filename": "image.png",
+    "Master": "Image"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Compute",
+    "Filename": "amazon_elastic_container_service_for_kubernetes.png",
+    "Master": "Amazon Elastic Container Service for Kubernetes"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Compute",
+    "Filename": "amazon_lightsail.png",
+    "Master": "Amazon Lightsail"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Compute",
+    "Filename": "aws_batch.png",
+    "Master": "AWS Batch"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Compute",
+    "Filename": "aws_elastic_beanstalk.png",
+    "Master": "AWS Elastic Beanstalk"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Compute",
+    "Filename": "deployment.png",
+    "Master": "Deployment"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Compute",
+    "Filename": "application.png",
+    "Master": "Application"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Compute",
+    "Filename": "aws_fargate.png",
+    "Master": "AWS Fargate"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Compute",
+    "Filename": "aws_lambda.png",
+    "Master": "AWS Lambda"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Compute",
+    "Filename": "lambda_function.png",
+    "Master": "Lambda function"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Compute",
+    "Filename": "aws_outposts.png",
+    "Master": "AWS Outposts"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Compute",
+    "Filename": "aws_serverless_application_repository.png",
+    "Master": "AWS Serverless Application Repository"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Compute",
+    "Filename": "elastic_load_balancing_(elb).png",
+    "Master": "Elastic Load Balancing (ELB)"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Compute",
+    "Filename": "vmware_cloud_on_aws.png",
+    "Master": "VMware Cloud on AWS"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Compute",
+    "Filename": "a1_instance.png",
+    "Master": "A1 instance"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Compute",
+    "Filename": "c4_instance.png",
+    "Master": "C4 instance"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Compute",
+    "Filename": "c5_instance.png",
+    "Master": "C5 instance"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Compute",
+    "Filename": "c5n_instance.png",
+    "Master": "C5n instance"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Compute",
+    "Filename": "d2_instance.png",
+    "Master": "D2 instance"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Compute",
+    "Filename": "db_on_instance.png",
+    "Master": "DB on instance"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Compute",
+    "Filename": "f1_instance.png",
+    "Master": "F1 instance"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Compute",
+    "Filename": "g3_instance.png",
+    "Master": "G3 instance"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Compute",
+    "Filename": "h1_instance.png",
+    "Master": "H1 instance"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Compute",
+    "Filename": "high_memory_instance.png",
+    "Master": "High Memory instance"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Compute",
+    "Filename": "instance.png",
+    "Master": "Instance"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Compute",
+    "Filename": "instances.png",
+    "Master": "Instances"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Compute",
+    "Filename": "i3_instance.png",
+    "Master": "I3 instance"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Compute",
+    "Filename": "instance_with_cloudwatch.png",
+    "Master": "Instance with CloudWatch"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Compute",
+    "Filename": "m4_instance.png",
+    "Master": "M4 instance"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Compute",
+    "Filename": "m5a_instance.png",
+    "Master": "M5a instance"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Compute",
+    "Filename": "m5_instance.png",
+    "Master": "M5 instance"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Compute",
+    "Filename": "p2_instance.png",
+    "Master": "P2 instance"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Compute",
+    "Filename": "p3_instance.png",
+    "Master": "P3 instance"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Compute",
+    "Filename": "r4_instance.png",
+    "Master": "R4 instance"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Compute",
+    "Filename": "r5_instance.png",
+    "Master": "R5 instance"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Compute",
+    "Filename": "r5a_instance.png",
+    "Master": "R5a instance"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Compute",
+    "Filename": "spot_instance.png",
+    "Master": "Spot instance"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Compute",
+    "Filename": "t2_instance.png",
+    "Master": "T2 instance"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Compute",
+    "Filename": "t3_instance.png",
+    "Master": "T3 instance"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Compute",
+    "Filename": "t3a_instance.png",
+    "Master": "T3a instance"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Compute",
+    "Filename": "x1_instance.png",
+    "Master": "X1 instance"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Compute",
+    "Filename": "x1e_instance.png",
+    "Master": "X1e instance"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Compute",
+    "Filename": "z1d_instance.png",
+    "Master": "z1d instance"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Customer Engagement",
+    "Filename": "customer_engagement.png",
+    "Master": "Customer Engagement"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Customer Engagement",
+    "Filename": "amazon_connect.png",
+    "Master": "Amazon Connect"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Customer Engagement",
+    "Filename": "amazon_pinpoint.png",
+    "Master": "Amazon Pinpoint"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Customer Engagement",
+    "Filename": "amazon_simple_email_service_(ses).png",
+    "Master": "Amazon Simple Email Service (SES)"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Customer Engagement",
+    "Filename": "email.png",
+    "Master": "Email"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Database",
+    "Filename": "amazon_aurora_instance.png",
+    "Master": "Amazon Aurora instance"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Database",
+    "Filename": "amazon_aurora_instance_alternate.png",
+    "Master": "Amazon Aurora instance alternate"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Database",
+    "Filename": "amazon_rds__instance.png",
+    "Master": "Amazon RDS  instance"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Database",
+    "Filename": "amazon_rds_instance_alternate.png",
+    "Master": "Amazon RDS instance alternate"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Database",
+    "Filename": "mariadb_instance.png",
+    "Master": "MariaDB instance"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Database",
+    "Filename": "mariadb_instance_alternate.png",
+    "Master": "MariaDB instance alternate"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Database",
+    "Filename": "mysql_instance.png",
+    "Master": "MySQL instance"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Database",
+    "Filename": "mysql_instance_alternate.png",
+    "Master": "MySQL instance alternate"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Database",
+    "Filename": "oracle_instance.png",
+    "Master": "Oracle instance"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Database",
+    "Filename": "oracle_instance_alternate.png",
+    "Master": "Oracle instance alternate"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Database",
+    "Filename": "piop.png",
+    "Master": "PIOP"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Database",
+    "Filename": "postgresql_instance.png",
+    "Master": "PostgreSQL instance"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Database",
+    "Filename": "postgresql_instance_alternate.png",
+    "Master": "PostgreSQL instance alternate"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Database",
+    "Filename": "sql_server_instance.png",
+    "Master": "SQL Server instance"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Database",
+    "Filename": "sql_server_instance_alternate.png",
+    "Master": "SQL Server instance alternate"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Database",
+    "Filename": "amazon_dynamodb_accelerator.png",
+    "Master": "Amazon DynamoDB Accelerator"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Database",
+    "Filename": "database.png",
+    "Master": "Database"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Database",
+    "Filename": "amazon_aurora.png",
+    "Master": "Amazon Aurora"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Database",
+    "Filename": "amazon_documentdb_(with_mongodb_compatibility).png",
+    "Master": "Amazon DocumentDB (with MongoDB compatibility)"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Database",
+    "Filename": "amazon_dynamodb.png",
+    "Master": "Amazon DynamoDB"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Database",
+    "Filename": "attribute.png",
+    "Master": "Attribute"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Database",
+    "Filename": "attributes.png",
+    "Master": "Attributes"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Database",
+    "Filename": "item.png",
+    "Master": "Item"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Database",
+    "Filename": "items.png",
+    "Master": "Items"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Database",
+    "Filename": "table.png",
+    "Master": "Table"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Database",
+    "Filename": "global_secondary_index.png",
+    "Master": "Global secondary index"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Database",
+    "Filename": "amazon_elasticache.png",
+    "Master": "Amazon ElastiCache"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Database",
+    "Filename": "elasticache_for_memcached.png",
+    "Master": "ElastiCache for Memcached"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Database",
+    "Filename": "elasticache_for_redis.png",
+    "Master": "ElastiCache for Redis"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Database",
+    "Filename": "cache_node.png",
+    "Master": "Cache node"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Database",
+    "Filename": "amazon_neptune.png",
+    "Master": "Amazon Neptune"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Database",
+    "Filename": "amazon_quantum_ledger_database_(qldb).png",
+    "Master": "Amazon Quantum Ledger Database (QLDB)"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Database",
+    "Filename": "amazon_rds.png",
+    "Master": "Amazon RDS"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Database",
+    "Filename": "amazon_rds_on_vmware.png",
+    "Master": "Amazon RDS on VMware"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Database",
+    "Filename": "amazon_redshift.png",
+    "Master": "Amazon Redshift"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Database",
+    "Filename": "dense_compute_node.png",
+    "Master": "Dense compute node"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Database",
+    "Filename": "dense_storage_node.png",
+    "Master": "Dense storage node"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Database",
+    "Filename": "amazon_timestream.png",
+    "Master": "Amazon Timestream"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Database",
+    "Filename": "aws_database_migration_service.png",
+    "Master": "AWS Database Migration Service"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Database",
+    "Filename": "database_migration_workflowjob.png",
+    "Master": "Database migration workflow/job"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Desktop and App Streaming",
+    "Filename": "desktop_and_app_streaming.png",
+    "Master": "Desktop and App Streaming"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Desktop and App Streaming",
+    "Filename": "amazon_appstream_2_0.png",
+    "Master": "Amazon Appstream 2.0"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Desktop and App Streaming",
+    "Filename": "amazon_workspaces.png",
+    "Master": "Amazon Workspaces"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Developer Tools",
+    "Filename": "developer_tools.png",
+    "Master": "Developer Tools"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Developer Tools",
+    "Filename": "aws_cloud9.png",
+    "Master": "AWS Cloud9"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Developer Tools",
+    "Filename": "aws_cloud_development_kit.png",
+    "Master": "AWS Cloud Development Kit"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Developer Tools",
+    "Filename": "aws_codebuild.png",
+    "Master": "AWS CodeBuild"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Developer Tools",
+    "Filename": "aws_codecommit.png",
+    "Master": "AWS CodeCommit"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Developer Tools",
+    "Filename": "aws_codedeploy.png",
+    "Master": "AWS CodeDeploy"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Developer Tools",
+    "Filename": "aws_codepipeline.png",
+    "Master": "AWS CodePipeline"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Developer Tools",
+    "Filename": "aws_codestar.png",
+    "Master": "AWS CodeStar"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Developer Tools",
+    "Filename": "aws_command_line_interface.png",
+    "Master": "AWS Command Line Interface"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Developer Tools",
+    "Filename": "aws_tools_and_sdks.png",
+    "Master": "AWS Tools and SDKs"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Developer Tools",
+    "Filename": "aws_x-ray.png",
+    "Master": "AWS X-Ray"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Game Tech",
+    "Filename": "game_tech.png",
+    "Master": "Game Tech"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Game Tech",
+    "Filename": "amazon_gamelift.png",
+    "Master": "Amazon GameLift"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Groups",
+    "Filename": "aws_cloud.png",
+    "Master": "AWS Cloud"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Groups",
+    "Filename": "aws_cloud_alternate.png",
+    "Master": "AWS Cloud Alternate"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Groups",
+    "Filename": "region.png",
+    "Master": "Region"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Groups",
+    "Filename": "vpc.png",
+    "Master": "VPC"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Groups",
+    "Filename": "private_subnet.png",
+    "Master": "Private subnet"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Groups",
+    "Filename": "public_subnet.png",
+    "Master": "Public subnet"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Groups",
+    "Filename": "auto_scaling_group.png",
+    "Master": "Auto Scaling group"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Groups",
+    "Filename": "corporate_data_center.png",
+    "Master": "Corporate data center"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Groups",
+    "Filename": "server_contents.png",
+    "Master": "Server contents"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Groups",
+    "Filename": "ec2_instance_contents.png",
+    "Master": "EC2 instance contents"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Groups",
+    "Filename": "elastic_beanstalk_container.png",
+    "Master": "Elastic Beanstalk container"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Groups",
+    "Filename": "spot_fleet.png",
+    "Master": "Spot Fleet"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Groups",
+    "Filename": "aws_step_functions_workflow.png",
+    "Master": "AWS Step Functions workflow"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Internet of Things",
+    "Filename": "internet_of_things.png",
+    "Master": "Internet of Things"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Internet of Things",
+    "Filename": "amazon_freertos.png",
+    "Master": "Amazon FreeRTOS"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Internet of Things",
+    "Filename": "aws_iot_1-click.png",
+    "Master": "AWS IoT 1-Click"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Internet of Things",
+    "Filename": "aws_iot_analytics.png",
+    "Master": "AWS IoT Analytics"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Internet of Things",
+    "Filename": "channel.png",
+    "Master": "Channel"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Internet of Things",
+    "Filename": "data_store.png",
+    "Master": "Data store"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Internet of Things",
+    "Filename": "pipeline.png",
+    "Master": "Pipeline"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Internet of Things",
+    "Filename": "aws_iot_button.png",
+    "Master": "AWS IoT Button"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Internet of Things",
+    "Filename": "aws_iot_core.png",
+    "Master": "AWS IoT Core"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Internet of Things",
+    "Filename": "aws_iot_device_defender.png",
+    "Master": "AWS IoT Device Defender"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Internet of Things",
+    "Filename": "aws_iot_device_management.png",
+    "Master": "AWS IoT Device Management"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Internet of Things",
+    "Filename": "aws_iot_events.png",
+    "Master": "AWS IoT Events"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Internet of Things",
+    "Filename": "aws_iot_greengrass.png",
+    "Master": "AWS IoT Greengrass"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Internet of Things",
+    "Filename": "aws_iot_sitewise.png",
+    "Master": "AWS IoT SiteWise"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Internet of Things",
+    "Filename": "aws_iot_things_graph.png",
+    "Master": "AWS IoT Things Graph"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Internet of Things",
+    "Filename": "action.png",
+    "Master": "Action"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Internet of Things",
+    "Filename": "actuator.png",
+    "Master": "Actuator"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Internet of Things",
+    "Filename": "alexa_enabled_device.png",
+    "Master": "Alexa enabled device"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Internet of Things",
+    "Filename": "alexa_skill.png",
+    "Master": "Alexa skill"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Internet of Things",
+    "Filename": "bank.png",
+    "Master": "Bank"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Internet of Things",
+    "Filename": "bicycle.png",
+    "Master": "Bicycle"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Internet of Things",
+    "Filename": "camera.png",
+    "Master": "Camera"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Internet of Things",
+    "Filename": "cart.png",
+    "Master": "Cart"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Internet of Things",
+    "Filename": "car.png",
+    "Master": "Car"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Internet of Things",
+    "Filename": "certificate.png",
+    "Master": "Certificate"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Internet of Things",
+    "Filename": "alexa_voice_service.png",
+    "Master": "Alexa voice service"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Internet of Things",
+    "Filename": "coffee_pot.png",
+    "Master": "Coffee pot"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Internet of Things",
+    "Filename": "desired_state.png",
+    "Master": "Desired state"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Internet of Things",
+    "Filename": "device_gateway.png",
+    "Master": "Device gateway"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Internet of Things",
+    "Filename": "door_lock.png",
+    "Master": "Door lock"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Internet of Things",
+    "Filename": "echo.png",
+    "Master": "Echo"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Internet of Things",
+    "Filename": "factory.png",
+    "Master": "Factory"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Internet of Things",
+    "Filename": "fire_tv.png",
+    "Master": "Fire TV"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Internet of Things",
+    "Filename": "fire_tv_stick.png",
+    "Master": "Fire TV stick"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Internet of Things",
+    "Filename": "generic.png",
+    "Master": "Generic"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Internet of Things",
+    "Filename": "hardware_board.png",
+    "Master": "Hardware board"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Internet of Things",
+    "Filename": "house.png",
+    "Master": "House"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Internet of Things",
+    "Filename": "http_protocol.png",
+    "Master": "HTTP protocol"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Internet of Things",
+    "Filename": "http2_protocol.png",
+    "Master": "HTTP/2 protocol"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Internet of Things",
+    "Filename": "lambda_function.png",
+    "Master": "Lambda function"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Internet of Things",
+    "Filename": "lightbulb.png",
+    "Master": "Lightbulb"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Internet of Things",
+    "Filename": "medical_emergency.png",
+    "Master": "Medical emergency"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Internet of Things",
+    "Filename": "mqtt_protocol.png",
+    "Master": "MQTT protocol"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Internet of Things",
+    "Filename": "over-the-air_update.png",
+    "Master": "Over-the-air update"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Internet of Things",
+    "Filename": "police_emergency.png",
+    "Master": "Police emergency"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Internet of Things",
+    "Filename": "policy.png",
+    "Master": "Policy"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Internet of Things",
+    "Filename": "reported_state.png",
+    "Master": "Reported state"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Internet of Things",
+    "Filename": "rule.png",
+    "Master": "Rule"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Internet of Things",
+    "Filename": "sensor.png",
+    "Master": "Sensor"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Internet of Things",
+    "Filename": "servo.png",
+    "Master": "Servo"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Internet of Things",
+    "Filename": "shadow.png",
+    "Master": "Shadow"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Internet of Things",
+    "Filename": "simulator.png",
+    "Master": "Simulator"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Internet of Things",
+    "Filename": "thermostat.png",
+    "Master": "Thermostat"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Internet of Things",
+    "Filename": "topic.png",
+    "Master": "Topic"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Internet of Things",
+    "Filename": "travel.png",
+    "Master": "Travel"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Internet of Things",
+    "Filename": "utility.png",
+    "Master": "Utility"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Internet of Things",
+    "Filename": "windfarm.png",
+    "Master": "Windfarm"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Machine Learning",
+    "Filename": "machine_learning.png",
+    "Master": "Machine Learning"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Machine Learning",
+    "Filename": "amazon_comprehend.png",
+    "Master": "Amazon Comprehend"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Machine Learning",
+    "Filename": "amazon_elastic_inference.png",
+    "Master": "Amazon Elastic Inference"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Machine Learning",
+    "Filename": "amazon_forecast.png",
+    "Master": "Amazon Forecast"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Machine Learning",
+    "Filename": "amazon_lex.png",
+    "Master": "Amazon Lex"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Machine Learning",
+    "Filename": "amazon_personalize.png",
+    "Master": "Amazon Personalize"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Machine Learning",
+    "Filename": "amazon_polly.png",
+    "Master": "Amazon Polly"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Machine Learning",
+    "Filename": "amazon_rekognition.png",
+    "Master": "Amazon Rekognition"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Machine Learning",
+    "Filename": "amazon_sagemaker.png",
+    "Master": "Amazon SageMaker"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Machine Learning",
+    "Filename": "notebook.png",
+    "Master": "Notebook"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Machine Learning",
+    "Filename": "train.png",
+    "Master": "Train"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Machine Learning",
+    "Filename": "model.png",
+    "Master": "Model"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Machine Learning",
+    "Filename": "amazon_sagemaker_ground_truth.png",
+    "Master": "Amazon SageMaker Ground Truth"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Machine Learning",
+    "Filename": "amazon_textract.png",
+    "Master": "Amazon Textract"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Machine Learning",
+    "Filename": "amazon_transcribe.png",
+    "Master": "Amazon Transcribe"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Machine Learning",
+    "Filename": "amazon_translate.png",
+    "Master": "Amazon Translate"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Machine Learning",
+    "Filename": "apache_mxnet_on_aws.png",
+    "Master": "Apache MXNet on AWS"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Machine Learning",
+    "Filename": "aws_deep_learning_amis.png",
+    "Master": "AWS Deep Learning AMIs"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Machine Learning",
+    "Filename": "aws_deeplens.png",
+    "Master": "AWS DeepLens"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Machine Learning",
+    "Filename": "aws_deepracer.png",
+    "Master": "AWS DeepRacer"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Machine Learning",
+    "Filename": "tensorflow_on_aws.png",
+    "Master": "TensorFlow on AWS"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Management & Governance",
+    "Filename": "management_&_governance.png",
+    "Master": "Management & Governance"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Management & Governance",
+    "Filename": "aws_organizations.png",
+    "Master": "AWS Organizations"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Management & Governance",
+    "Filename": "opscenter.png",
+    "Master": "OpsCenter"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Management & Governance",
+    "Filename": "amazon_cloudwatch.png",
+    "Master": "Amazon CloudWatch"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Management & Governance",
+    "Filename": "rule.png",
+    "Master": "Rule"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Management & Governance",
+    "Filename": "event_(event-based).png",
+    "Master": "Event (event-based)"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Management & Governance",
+    "Filename": "event_(time-based).png",
+    "Master": "Event (time-based)"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Management & Governance",
+    "Filename": "alarm.png",
+    "Master": "Alarm"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Management & Governance",
+    "Filename": "aws_auto_scaling.png",
+    "Master": "AWS Auto Scaling"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Management & Governance",
+    "Filename": "aws_cloudformation.png",
+    "Master": "AWS CloudFormation"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Management & Governance",
+    "Filename": "template.png",
+    "Master": "Template"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Management & Governance",
+    "Filename": "stack.png",
+    "Master": "Stack"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Management & Governance",
+    "Filename": "change_set.png",
+    "Master": "Change set"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Management & Governance",
+    "Filename": "aws_cloudtrail.png",
+    "Master": "AWS CloudTrail"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Management & Governance",
+    "Filename": "aws_command_line_interface.png",
+    "Master": "AWS Command Line Interface"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Management & Governance",
+    "Filename": "aws_config.png",
+    "Master": "AWS Config"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Management & Governance",
+    "Filename": "aws_control_tower.png",
+    "Master": "AWS Control Tower"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Management & Governance",
+    "Filename": "aws_license_manager.png",
+    "Master": "AWS License Manager"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Management & Governance",
+    "Filename": "aws_managed_services.png",
+    "Master": "AWS Managed Services"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Management & Governance",
+    "Filename": "aws_management_console.png",
+    "Master": "AWS Management Console"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Management & Governance",
+    "Filename": "aws_opsworks.png",
+    "Master": "AWS OpsWorks"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Management & Governance",
+    "Filename": "stack2.png",
+    "Master": "Stack2"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Management & Governance",
+    "Filename": "resources.png",
+    "Master": "Resources"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Management & Governance",
+    "Filename": "layers.png",
+    "Master": "Layers"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Management & Governance",
+    "Filename": "deployments.png",
+    "Master": "Deployments"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Management & Governance",
+    "Filename": "permissions.png",
+    "Master": "Permissions"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Management & Governance",
+    "Filename": "monitoring.png",
+    "Master": "Monitoring"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Management & Governance",
+    "Filename": "instances.png",
+    "Master": "Instances"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Management & Governance",
+    "Filename": "apps.png",
+    "Master": "Apps"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Management & Governance",
+    "Filename": "aws_personal_health_dashboard.png",
+    "Master": "AWS Personal Health Dashboard"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Management & Governance",
+    "Filename": "aws_service_catalog.png",
+    "Master": "AWS Service Catalog"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Management & Governance",
+    "Filename": "aws_systems_manager.png",
+    "Master": "AWS Systems Manager"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Management & Governance",
+    "Filename": "run_command.png",
+    "Master": "Run command"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Management & Governance",
+    "Filename": "state_manager.png",
+    "Master": "State manager"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Management & Governance",
+    "Filename": "maintenance_windows.png",
+    "Master": "Maintenance windows"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Management & Governance",
+    "Filename": "inventory.png",
+    "Master": "Inventory"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Management & Governance",
+    "Filename": "parameter_store.png",
+    "Master": "Parameter store"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Management & Governance",
+    "Filename": "patch_manager.png",
+    "Master": "Patch manager"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Management & Governance",
+    "Filename": "documents.png",
+    "Master": "Documents"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Management & Governance",
+    "Filename": "automation.png",
+    "Master": "Automation"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Management & Governance",
+    "Filename": "aws_trusted_advisor.png",
+    "Master": "AWS Trusted Advisor"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Management & Governance",
+    "Filename": "checklist_cost.png",
+    "Master": "Checklist cost"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Management & Governance",
+    "Filename": "checklist_fault_tolerant.png",
+    "Master": "Checklist fault tolerant"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Management & Governance",
+    "Filename": "checklist_performance.png",
+    "Master": "Checklist performance"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Management & Governance",
+    "Filename": "checklist_security.png",
+    "Master": "Checklist security"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Management & Governance",
+    "Filename": "checklist.png",
+    "Master": "Checklist"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Management & Governance",
+    "Filename": "aws_well_architected_tool.png",
+    "Master": "AWS Well Architected Tool"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Media Services",
+    "Filename": "media_services.png",
+    "Master": "Media Services"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Media Services",
+    "Filename": "amazon_elastic_transcoder.png",
+    "Master": "Amazon Elastic Transcoder"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Media Services",
+    "Filename": "amazon_kinesis_video_streams.png",
+    "Master": "Amazon Kinesis Video Streams"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Media Services",
+    "Filename": "aws_elemental_mediaconnect.png",
+    "Master": "AWS Elemental MediaConnect"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Media Services",
+    "Filename": "aws_elemental_mediaconvert.png",
+    "Master": "AWS Elemental MediaConvert"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Media Services",
+    "Filename": "aws_elemental_medialive.png",
+    "Master": "AWS Elemental MediaLive"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Media Services",
+    "Filename": "aws_elemental_mediapackage.png",
+    "Master": "AWS Elemental MediaPackage"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Media Services",
+    "Filename": "aws_elemental_mediastore.png",
+    "Master": "AWS Elemental MediaStore"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Media Services",
+    "Filename": "aws_elemental_mediatailor.png",
+    "Master": "AWS Elemental MediaTailor"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Media Services",
+    "Filename": "aws_elemental_server.png",
+    "Master": "AWS Elemental Server"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Media Services",
+    "Filename": "aws_elemental_live.png",
+    "Master": "AWS Elemental Live"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Media Services",
+    "Filename": "aws_elemental_delta.png",
+    "Master": "AWS Elemental Delta"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Media Services",
+    "Filename": "aws_elemental_conductor.png",
+    "Master": "AWS Elemental Conductor"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Migration and Transfer",
+    "Filename": "migration_and_transfer.png",
+    "Master": "Migration and Transfer"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Migration and Transfer",
+    "Filename": "aws_application_disovery_service.png",
+    "Master": "AWS Application Disovery Service"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Migration and Transfer",
+    "Filename": "aws_database_migration_service.png",
+    "Master": "AWS Database Migration Service"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Migration and Transfer",
+    "Filename": "aws_datasync.png",
+    "Master": "AWS DataSync"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Migration and Transfer",
+    "Filename": "aws_migration_hub.png",
+    "Master": "AWS Migration Hub"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Migration and Transfer",
+    "Filename": "aws_server_migration_service.png",
+    "Master": "AWS Server Migration Service"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Migration and Transfer",
+    "Filename": "aws_snowball.png",
+    "Master": "AWS Snowball"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Migration and Transfer",
+    "Filename": "aws_snowball_edge.png",
+    "Master": "AWS Snowball Edge"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Migration and Transfer",
+    "Filename": "aws_snowmobile.png",
+    "Master": "AWS Snowmobile"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Migration and Transfer",
+    "Filename": "aws_transfer_for_sftp.png",
+    "Master": "AWS Transfer for SFTP"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Mobile",
+    "Filename": "mobile.png",
+    "Master": "Mobile"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Mobile",
+    "Filename": "amazon_api_gateway.png",
+    "Master": "Amazon API Gateway"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Mobile",
+    "Filename": "amazon_pinpoint.png",
+    "Master": "Amazon Pinpoint"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Mobile",
+    "Filename": "aws_amplify.png",
+    "Master": "AWS Amplify"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Mobile",
+    "Filename": "aws_appsync.png",
+    "Master": "AWS AppSync"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Mobile",
+    "Filename": "aws_device_farm.png",
+    "Master": "AWS Device Farm"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Networking & Content Delivery",
+    "Filename": "networking_&_content_delivery.png",
+    "Master": "Networking & Content Delivery"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Networking & Content Delivery",
+    "Filename": "amazon_api_gateway.png",
+    "Master": "Amazon API Gateway"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Networking & Content Delivery",
+    "Filename": "amazon_cloudfront.png",
+    "Master": "Amazon CloudFront"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Networking & Content Delivery",
+    "Filename": "download_distribution.png",
+    "Master": "Download distribution"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Networking & Content Delivery",
+    "Filename": "edge_location.png",
+    "Master": "Edge location"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Networking & Content Delivery",
+    "Filename": "streaming_distribution.png",
+    "Master": "Streaming distribution"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Networking & Content Delivery",
+    "Filename": "amazon_route_53.png",
+    "Master": "Amazon Route 53"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Networking & Content Delivery",
+    "Filename": "traffic_mirroring.png",
+    "Master": "Traffic Mirroring"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Networking & Content Delivery",
+    "Filename": "hosted_zone.png",
+    "Master": "Hosted zone"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Networking & Content Delivery",
+    "Filename": "route_table.png",
+    "Master": "Route table"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Networking & Content Delivery",
+    "Filename": "amazon_vpc.png",
+    "Master": "Amazon VPC"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Networking & Content Delivery",
+    "Filename": "vpn_gateway.png",
+    "Master": "VPN gateway"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Networking & Content Delivery",
+    "Filename": "nat_gateway.png",
+    "Master": "NAT gateway"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Networking & Content Delivery",
+    "Filename": "vpn_connection.png",
+    "Master": "VPN connection"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Networking & Content Delivery",
+    "Filename": "customer_gateway.png",
+    "Master": "Customer gateway"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Networking & Content Delivery",
+    "Filename": "peering.png",
+    "Master": "Peering"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Networking & Content Delivery",
+    "Filename": "network_access_control_list.png",
+    "Master": "Network access control list"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Networking & Content Delivery",
+    "Filename": "router.png",
+    "Master": "Router"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Networking & Content Delivery",
+    "Filename": "internet_gateway.png",
+    "Master": "Internet gateway"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Networking & Content Delivery",
+    "Filename": "elastic_network_interface.png",
+    "Master": "Elastic network interface"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Networking & Content Delivery",
+    "Filename": "endpoints.png",
+    "Master": "Endpoints"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Networking & Content Delivery",
+    "Filename": "flow_logs.png",
+    "Master": "Flow logs"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Networking & Content Delivery",
+    "Filename": "elastic_network_adapter.png",
+    "Master": "Elastic network adapter"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Networking & Content Delivery",
+    "Filename": "aws_app_mesh.png",
+    "Master": "AWS App Mesh"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Networking & Content Delivery",
+    "Filename": "aws_client_vpn.png",
+    "Master": "AWS Client VPN"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Networking & Content Delivery",
+    "Filename": "aws_cloud_map.png",
+    "Master": "AWS Cloud Map"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Networking & Content Delivery",
+    "Filename": "aws_direct_connect.png",
+    "Master": "AWS Direct Connect"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Networking & Content Delivery",
+    "Filename": "aws_global_accelerator.png",
+    "Master": "AWS Global Accelerator"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Networking & Content Delivery",
+    "Filename": "aws_transit_gateway.png",
+    "Master": "AWS Transit Gateway"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Networking & Content Delivery",
+    "Filename": "aws_vpc_privatelink.png",
+    "Master": "AWS VPC PrivateLink"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Robotics",
+    "Filename": "robotics.png",
+    "Master": "Robotics"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Robotics",
+    "Filename": "aws_robomaker.png",
+    "Master": "AWS RoboMaker"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Robotics",
+    "Filename": "simulation.png",
+    "Master": "Simulation"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Robotics",
+    "Filename": "fleet_management.png",
+    "Master": "Fleet management"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Robotics",
+    "Filename": "development_environment.png",
+    "Master": "Development environment"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Robotics",
+    "Filename": "cloud_extensions_ros.png",
+    "Master": "Cloud Extensions ROS"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Satellite",
+    "Filename": "satellite.png",
+    "Master": "Satellite"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Satellite",
+    "Filename": "aws_ground_station.png",
+    "Master": "AWS Ground Station"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Security, Identity, and Compliance",
+    "Filename": "security,_identity,_and_compliance.png",
+    "Master": "Security, Identity, and Compliance"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Security, Identity, and Compliance",
+    "Filename": "amazon_cloud_directory.png",
+    "Master": "Amazon Cloud Directory"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Security, Identity, and Compliance",
+    "Filename": "amazon_cognito.png",
+    "Master": "Amazon Cognito"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Security, Identity, and Compliance",
+    "Filename": "amazon_guardduty.png",
+    "Master": "Amazon GuardDuty"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Security, Identity, and Compliance",
+    "Filename": "amazon_inspector.png",
+    "Master": "Amazon Inspector"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Security, Identity, and Compliance",
+    "Filename": "agent.png",
+    "Master": "Agent"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Security, Identity, and Compliance",
+    "Filename": "amazon_macie.png",
+    "Master": "Amazon Macie"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Security, Identity, and Compliance",
+    "Filename": "aws_artifact.png",
+    "Master": "AWS Artifact"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Security, Identity, and Compliance",
+    "Filename": "aws_certificate_manager.png",
+    "Master": "AWS Certificate Manager"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Security, Identity, and Compliance",
+    "Filename": "certificate_manager.png",
+    "Master": "Certificate manager"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Security, Identity, and Compliance",
+    "Filename": "aws_cloudhsm.png",
+    "Master": "AWS CloudHSM"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Security, Identity, and Compliance",
+    "Filename": "aws_directory_service.png",
+    "Master": "AWS Directory Service"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Security, Identity, and Compliance",
+    "Filename": "aws_firewall_manager.png",
+    "Master": "AWS Firewall Manager"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Security, Identity, and Compliance",
+    "Filename": "aws_identity_and_access_management_(iam).png",
+    "Master": "AWS Identity and Access Management (IAM)"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Security, Identity, and Compliance",
+    "Filename": "role.png",
+    "Master": "Role"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Security, Identity, and Compliance",
+    "Filename": "mfa_token.png",
+    "Master": "MFA token"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Security, Identity, and Compliance",
+    "Filename": "permissions.png",
+    "Master": "Permissions"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Security, Identity, and Compliance",
+    "Filename": "data_encryption_key.png",
+    "Master": "Data encryption key"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Security, Identity, and Compliance",
+    "Filename": "encrypted_data.png",
+    "Master": "Encrypted data"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Security, Identity, and Compliance",
+    "Filename": "long-term_security_credential.png",
+    "Master": "Long-term security credential"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Security, Identity, and Compliance",
+    "Filename": "temporary_security_credential.png",
+    "Master": "Temporary security credential"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Security, Identity, and Compliance",
+    "Filename": "aws_sts_(alternate).png",
+    "Master": "AWS STS (alternate)"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Security, Identity, and Compliance",
+    "Filename": "aws_sts.png",
+    "Master": "AWS STS"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Security, Identity, and Compliance",
+    "Filename": "add-on.png",
+    "Master": "Add-on"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Security, Identity, and Compliance",
+    "Filename": "aws_key_management_service.png",
+    "Master": "AWS Key Management Service"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Security, Identity, and Compliance",
+    "Filename": "aws_organizations.png",
+    "Master": "AWS Organizations"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Security, Identity, and Compliance",
+    "Filename": "organizational_unit_(ou).png",
+    "Master": "Organizational unit (OU)"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Security, Identity, and Compliance",
+    "Filename": "account.png",
+    "Master": "Account"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Security, Identity, and Compliance",
+    "Filename": "aws_resource_access_manager.png",
+    "Master": "AWS Resource Access Manager"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Security, Identity, and Compliance",
+    "Filename": "aws_secrets_manager.png",
+    "Master": "AWS Secrets Manager"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Security, Identity, and Compliance",
+    "Filename": "aws_security_hub.png",
+    "Master": "AWS Security Hub"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Security, Identity, and Compliance",
+    "Filename": "aws_shield.png",
+    "Master": "AWS Shield"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Security, Identity, and Compliance",
+    "Filename": "shield_advanced.png",
+    "Master": "Shield Advanced"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Security, Identity, and Compliance",
+    "Filename": "aws_single_sign-on.png",
+    "Master": "AWS Single Sign-On"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Security, Identity, and Compliance",
+    "Filename": "aws_waf.png",
+    "Master": "AWS WAF"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Security, Identity, and Compliance",
+    "Filename": "filtering_rule.png",
+    "Master": "Filtering rule"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Storage",
+    "Filename": "storage.png",
+    "Master": "Storage"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Storage",
+    "Filename": "amazon_elastic_block_store_(ebs).png",
+    "Master": "Amazon Elastic Block Store (EBS)"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Storage",
+    "Filename": "volume.png",
+    "Master": "Volume"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Storage",
+    "Filename": "snapshot.png",
+    "Master": "Snapshot"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Storage",
+    "Filename": "standard_storage_class.png",
+    "Master": "Standard storage class"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Storage",
+    "Filename": "infrequent_access_storage_class.png",
+    "Master": "Infrequent Access storage class"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Storage",
+    "Filename": "amazon_elastic_file_system_(efs).png",
+    "Master": "Amazon Elastic File System (EFS)"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Storage",
+    "Filename": "amazon_fsx.png",
+    "Master": "Amazon FSx"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Storage",
+    "Filename": "amazon_fsx_for_lustre.png",
+    "Master": "Amazon FSx for Lustre"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Storage",
+    "Filename": "amazon_fsx_for_windows_file_server.png",
+    "Master": "Amazon FSx for Windows File Server"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Storage",
+    "Filename": "amazon_s3_glacier.png",
+    "Master": "Amazon S3 Glacier"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Storage",
+    "Filename": "archive.png",
+    "Master": "Archive"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Storage",
+    "Filename": "vault.png",
+    "Master": "Vault"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Storage",
+    "Filename": "amazon_simple_storage_service_(s3).png",
+    "Master": "Amazon Simple Storage Service (S3)"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Storage",
+    "Filename": "object.png",
+    "Master": "Object"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Storage",
+    "Filename": "bucket.png",
+    "Master": "Bucket"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Storage",
+    "Filename": "bucket_with_objects.png",
+    "Master": "Bucket with objects"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Storage",
+    "Filename": "aws_backup.png",
+    "Master": "AWS Backup"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Storage",
+    "Filename": "aws_snowball.png",
+    "Master": "AWS Snowball"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Storage",
+    "Filename": "snowball_import-export.png",
+    "Master": "Snowball import-export"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Storage",
+    "Filename": "aws_snowball_edge.png",
+    "Master": "AWS Snowball Edge"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Storage",
+    "Filename": "aws_snowmobile.png",
+    "Master": "AWS Snowmobile"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Storage",
+    "Filename": "aws_storage_gateway.png",
+    "Master": "AWS Storage Gateway"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Storage",
+    "Filename": "virtual_tape_library.png",
+    "Master": "Virtual tape library"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Storage",
+    "Filename": "cached_volume.png",
+    "Master": "Cached volume"
+  },
+  {
+    "SetName": "",
+    "Folder": "",
+    "Stencil": "Storage",
+    "Filename": "non-cached_volume.png",
+    "Master": "Non-cached volume"
+  }
+]
